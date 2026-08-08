@@ -48,6 +48,16 @@ Relative Rotation Graphs and all charts are from **StockCharts.com**. Company fu
 data, including quarterly figures, valuation multiples, returns, margins and
 financial-strength scores, is from **StockAnalysis.com**.
 
+## Some figures are calculated, not quoted
+
+Where the parts of a return are shown beside the return itself, they are worked out by us
+from the revenue, net income, total assets and shareholders' equity that
+StockAnalysis.com reports, rather than copied from its own ratio columns, so that the
+parts reconcile with the whole.
+
+In the fundamentals section of an issue, a dash means the figure is not reported, and a
+cell is left empty where the measure does not apply to that company.
+
 ## Used with permission
 
 Charts are reproduced from StockCharts.com under their reprint permission policy,
@@ -77,8 +87,9 @@ data or commercial consideration enters the process.
 
 All figures come from the third-party sources named above and are believed reliable at
 time of publication, **but they are not independently verified**. The fundamental figures
-are taken from StockAnalysis.com as published, and are **not checked against the
-companies' own quarterly or annual filings**, exchange disclosures or investor releases.
+are taken from StockAnalysis.com as published, or calculated from figures it publishes as
+described above, and are **not checked against the companies' own quarterly or annual
+filings**, exchange disclosures or investor releases.
 Where StockAnalysis.com and a company's own filing disagree, our pages follow
 StockAnalysis.com.
 
