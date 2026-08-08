@@ -75,8 +75,10 @@ from the revenue, net income, total assets and shareholders' equity that
 StockAnalysis.com reports, rather than copied from its own ratio columns, so that the
 parts reconcile with the whole.
 
-In the fundamentals section of an issue, a dash means the figure is not reported, and a
-cell is left empty where the measure does not apply to that company.
+In the company cards, a dash means the figure is either not reported or does not apply
+to that company. A ratio that cannot legitimately be zero, such as inventory turnover for
+an insurer, is shown as a dash rather than as 0.00, because printing zero would state a
+measurement that was never made.
 
 ## Used with permission
 

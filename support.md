@@ -26,8 +26,8 @@ billing, so that we can find your record.
 - Issues not arriving, arriving late, or landing in spam
 - Billing and refunds for paid subscriptions
 - Correcting a factual or numerical error in a published issue
-- Questions about how the newsletter is produced, what its data sources are, or how its
-  selection rule works
+- Questions about how the newsletter is produced, what its data sources are, or how a
+  company came to be selected
 - Requests relating to your personal data, as described in our
   [Privacy Policy](privacy.html)
 - Press, partnership, and permission enquiries

@@ -28,6 +28,12 @@ or residency are welcome; the restriction is on subject matter, not audience. De
 receipts and other instruments of companies also listed on an Indian exchange are
 excluded from coverage.
 
+**Two steps produce each issue, and only one of them is mechanical.** The tests applied to
+a company are mechanical and are printed in full in every issue. The step before them is
+not: which sectors are followed, and which companies are carried into those tests, is the
+publisher's own reading of a Relative Rotation Graph, done by eye. It is a judgement, and
+another reader could reasonably reach a different one.
+
 ## 2. No investment advice
 
 The full [Disclaimer](disclaimer.html) applies to every issue and forms part of these terms.
@@ -44,8 +50,10 @@ time. See our [Customer Support](support.html) page.
 
 ## 3. Data, and its limits
 
-Figures come from third-party sources, principally **StockCharts.com** for relative
-rotation graphs and charts, and **StockAnalysis.com** for company financial data.
+Every figure we report comes from **StockAnalysis.com**: sector and fund prices, price
+and moving-average data, and company fundamentals. **StockCharts.com** supplies the
+relative rotation graphs, which are reproduced as images. Nothing is read out of a chart
+into our text, tables or cards.
 
 **These figures are not independently verified against companies' own filings.** Where a
 source and a company's filing disagree, our pages follow the source. An error upstream
@@ -76,8 +84,9 @@ when a reader subscribes to that service through a link in an issue. This costs 
 nothing.
 
 **These arrangements do not influence which sectors or companies appear.** Selection is
-made from price and relative-strength data alone, by a stated rule published in each
-issue, before any fundamental data or commercial consideration enters the process.
+made from price and relative-strength data alone, first by the publisher's own reading of
+it and then by the tests published in each issue, before any fundamental data or
+commercial consideration enters the process.
 
 We accept no payment from any company covered, from any promoter, or from any investor
 relations firm, and never have.
