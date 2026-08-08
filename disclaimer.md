@@ -52,9 +52,15 @@ investor relations firm, and has never done so.
 
 ## Data sources
 
-Relative Rotation Graphs and all charts are from **StockCharts.com**. Company fundamental
-data, including quarterly figures, valuation multiples, returns, margins and
-financial-strength scores, is from **StockAnalysis.com**.
+Relative Rotation Graphs and all charts are from **StockCharts.com**. Every figure we
+report, in the text, the tables and the company cards, is from **StockAnalysis.com**: the
+sector and fund prices behind the sector map, the price and moving-average data behind the
+shortlist, and the company fundamentals.
+
+A reproduced chart necessarily shows its own axis scales and the index level on the day,
+and those are StockCharts' figures, presented as part of their image. **Nothing is read out
+of a chart into our text, tables or cards.** The graphs decide what we look at, not what we
+print about it.
 
 ## Some figures are calculated, not quoted
 
