@@ -93,7 +93,8 @@ Free subscriptions may be cancelled at any time using the unsubscribe link in an
 
 Paid subscriptions, where offered, are billed through our publishing platform on the
 terms shown at checkout. You may cancel at any time, and cancellation takes effect at the
-end of the current billing period. Refunds are handled case by case; email us.
+end of the current billing period. Cancellations and refunds are governed by our
+[Cancellation and Refund Policy](refunds.html).
 
 We may change subscription pricing on notice, which will not affect a period you have
 already paid for.

@@ -11,5 +11,6 @@ Ayush Agrawal.
 - [Customer Support](support.html)
 - [Privacy Policy](privacy.html)
 - [Terms of Service](terms.html)
+- [Cancellation and Refund Policy](refunds.html)
 
 Contact: [themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)
