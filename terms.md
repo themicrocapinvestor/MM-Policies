@@ -30,8 +30,9 @@ excluded from coverage.
 
 **Two steps produce each issue, and only one of them is mechanical.** The tests applied to
 a company are mechanical and are printed in full in every issue. The step before them is
-not: which sectors are followed, and which companies are carried into those tests, is the
-publisher's own reading of a Relative Rotation Graph, done by eye. It is a judgement, and
+not: which sectors are followed, which industry funds are shown, and which companies are
+carried into those tests, is the publisher's own reading of a Relative Rotation Graph, done
+by eye. It is a judgement, and
 another reader could reasonably reach a different one.
 
 ## 2. No investment advice
@@ -53,8 +54,8 @@ time. See our [Customer Support](support.html) page.
 Two sources, supplying different things.
 
 **StockCharts.com** provides the Relative Rotation Graphs. These are what the publisher
-reads to decide which sectors an issue follows and which companies are carried into the
-tests, so they are the first input to every issue, and they are reproduced in each issue
+reads to decide which sectors an issue follows, which industry funds are shown, and which
+companies are carried into the tests, so they are the first input to every issue, and they are reproduced in each issue
 under StockCharts' reprint permission policy.
 
 **StockAnalysis.com** provides every figure we print: sector and fund prices, price and
@@ -89,7 +90,7 @@ We participate in the **StockAnalysis.com** affiliate programme and may earn a c
 when a reader subscribes to that service through a link in an issue. This costs you
 nothing.
 
-**These arrangements do not influence which sectors or companies appear.** Selection is
+**These arrangements do not influence which sectors, funds or companies appear.** Selection is
 made from price and relative-strength data alone, first by the publisher's own reading of
 it and then by the tests published in each issue, before any fundamental data or
 commercial consideration enters the process.

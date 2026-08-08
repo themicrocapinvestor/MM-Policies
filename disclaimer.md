@@ -38,9 +38,9 @@ future returns.
 The tests are mechanical. Given the same figures they always return the same answer, and
 they are printed in full in every issue.
 
-The step before them is not. Which sectors are followed, and which companies are carried
-into those tests, is the author's own reading of a Relative Rotation Graph, done by eye. It
-is a judgement. Another reader looking at the same graph could reasonably reach a different
+The step before them is not. Which sectors are followed, which industry funds are shown,
+and which companies are carried into those tests, is the author's own reading of a Relative
+Rotation Graph, done by eye. It is a judgement. Another reader looking at the same graph could reasonably reach a different
 one, and no part of it is automated or reproducible in the way the tests are.
 
 ## Positions
@@ -105,9 +105,9 @@ The publisher participates in the StockAnalysis.com affiliate programme and may 
 commission when a reader subscribes to that service through a link in an issue. This
 costs the reader nothing.
 
-These arrangements do not influence which sectors or companies appear: selection is made
-from price and relative-strength data alone, first by the author's reading of it and then
-by the stated tests, before any fundamental data or commercial consideration enters the
+These arrangements do not influence which sectors, funds or companies appear: selection is
+made from price and relative-strength data alone, first by the author's reading of it and
+then by the stated tests, before any fundamental data or commercial consideration enters the
 process.
 
 ## No warranty on data
