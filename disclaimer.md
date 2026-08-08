@@ -45,10 +45,14 @@ one, and no part of it is automated or reproducible in the way the tests are.
 
 ## Positions
 
-A position statement is printed in every issue, above the signoff, and states the
-position as at the time of writing. It is re-checked and re-affirmed before every issue is
-built, and an issue whose declaration has not been re-affirmed does not build at all. It
-covers the author, the author's household and any entity the author controls.
+A position statement is printed in the disclaimer of every issue and states the position
+as at the time of writing. It is re-checked and re-affirmed before every issue is built,
+and an issue whose declaration has not been re-affirmed does not build at all. It covers
+the author, the author's household and any entity the author controls.
+
+This page describes the practice. It does not carry a live position, because a position
+can change between issues and a policy page nobody rebuilds would go stale. **The statement
+in the issue you are reading is the current one.**
 
 No position is opened or closed in any security named in an issue within 72 hours either
 side of publication.
