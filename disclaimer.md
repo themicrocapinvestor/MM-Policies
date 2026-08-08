@@ -26,14 +26,22 @@ excluded from coverage.
 
 ## The shortlist is the output of a stated rule, not a rating
 
-The rule that produces it is printed in every issue, together with the companies the same
-rule rejected. The same inputs always produce the same shortlist. The fundamentals
-section reports figures published by StockAnalysis.com and does not score or rank the
-companies.
+The tests that produce it are printed in full in every issue. The fundamentals section
+reports figures published by StockAnalysis.com and does not score or rank the companies.
 
 Nothing here is a buy, sell or hold rating, a price target, or a forecast. Relative
 strength and past financial results describe what has already happened and do not predict
 future returns.
+
+## Two steps, and only one of them is mechanical
+
+The tests are mechanical. Given the same figures they always return the same answer, and
+they are printed in full in every issue.
+
+The step before them is not. Which sectors are followed, and which companies are carried
+into those tests, is the author's own reading of a Relative Rotation Graph, done by eye. It
+is a judgement. Another reader looking at the same graph could reasonably reach a different
+one, and no part of it is automated or reproducible in the way the tests are.
 
 ## Positions
 
@@ -80,8 +88,9 @@ commission when a reader subscribes to that service through a link in an issue. 
 costs the reader nothing.
 
 These arrangements do not influence which sectors or companies appear: selection is made
-from price and relative-strength data alone, by the stated rule, before any fundamental
-data or commercial consideration enters the process.
+from price and relative-strength data alone, first by the author's reading of it and then
+by the stated tests, before any fundamental data or commercial consideration enters the
+process.
 
 ## No warranty on data
 
