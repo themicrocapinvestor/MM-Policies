@@ -91,8 +91,9 @@ any company discussed. None of them endorses or sponsors this publication.
 
 Free subscriptions may be cancelled at any time using the unsubscribe link in any issue.
 
-Paid subscriptions, where offered, are billed through our publishing platform on the
-terms shown at checkout. You may cancel at any time, and cancellation takes effect at the
+This publication is hosted on **Substack**, and paid subscriptions are processed by
+**Stripe** on the terms shown at checkout. Your use of those services is also subject to
+their own terms. We never see or hold your card details. You may cancel at any time, and cancellation takes effect at the
 end of the current billing period. Cancellations and refunds are governed by our
 [Cancellation and Refund Policy](refunds.html).
 

@@ -20,10 +20,11 @@ for, and it is the only one we need.
 
 **A name, if you choose to give one.** It is optional and used only to address you.
 
-**Billing details, if you take a paid subscription.** These are collected and held by our
-publishing platform and its payment processor. We never see or store your card number.
+**Billing details, if you take a paid subscription.** These are collected and held by
+**Substack** and its payment processor **Stripe**. We never see or store your card
+number, and we have no access to it.
 
-**Delivery and engagement data**, generated automatically by our publishing platform:
+**Delivery and engagement data**, generated automatically by **Substack**:
 whether an issue was delivered, opened, and which links were clicked. We use this in
 aggregate to understand whether issues are arriving and being read.
 
@@ -48,10 +49,14 @@ tier, to answer your emails, and to keep records we are required to keep. That i
 
 Running a newsletter means using other companies, and they process data on our behalf:
 
-- **Our email and publishing platform**, which stores the subscriber list, sends issues,
-  and records delivery and open data.
-- **Its payment processor**, for paid subscriptions.
-- **Our email provider**, for messages you send to our support address.
+- **Substack Inc.**, which hosts the publication, stores the subscriber list, sends every
+  issue, and records delivery and open data. See Substack's own
+  [Privacy Policy](https://substack.com/privacy).
+- **Stripe, Inc.**, which processes payments for paid subscriptions and holds the card
+  and billing details we never see. See
+  [Stripe's Privacy Policy](https://stripe.com/privacy).
+- **Google**, which provides the mailbox behind our support address, for any message you
+  send us directly.
 
 Each of these has its own privacy policy governing what it does with data. We choose
 providers that do not sell subscriber data.
@@ -69,9 +74,10 @@ have no control over and no visibility into that.
 
 ## Cookies
 
-The newsletter itself is delivered by email and sets no cookies on your device. Our
-publishing platform's website may set cookies when you visit it, which its own cookie
-policy covers.
+The newsletter itself is delivered by email and sets no cookies on your device.
+Substack's website sets its own cookies when you visit it, governed by
+[Substack's cookie and privacy policy](https://substack.com/privacy), not by this one.
+Stripe sets cookies during checkout for fraud prevention.
 
 ## How long we keep things
 
@@ -111,15 +117,17 @@ record.
 
 ## Security
 
-We keep the subscriber list within our publishing platform rather than in spreadsheets or
-local files, and we use two-factor authentication on the accounts that can reach it. No
+We keep the subscriber list inside Substack rather than in spreadsheets or local files,
+and we use two-factor authentication on the accounts that can reach it. Card details are
+held by Stripe, a PCI-DSS Level 1 certified processor, and never touch our systems. No
 system is perfectly secure, and we will not pretend otherwise. If a breach occurs that
 affects you, we will tell you.
 
 ## Where your data goes
 
-Our providers operate internationally, so your email address is likely stored on servers
-outside your own country, commonly in the United States.
+**Substack Inc. and Stripe, Inc. are United States companies**, so your email address and,
+for paid subscribers, your billing details are stored and processed in the United States,
+whatever country you read from.
 
 ## Changes
 

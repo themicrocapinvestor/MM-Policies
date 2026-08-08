@@ -16,8 +16,8 @@ Contact: **[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)
 
 **You can cancel at any time, for any reason, without telling us why.**
 
-Cancel from the subscription settings of your account on our publishing platform, or
-email us and we will do it for you. There is no cancellation fee, no notice period, and
+Cancel from your Substack account settings, under Subscriptions, or email us and we will
+do it for you. There is no cancellation fee, no notice period, and
 no retention process to sit through.
 
 Cancellation takes effect **at the end of the period you have already paid for**. You
@@ -48,8 +48,8 @@ badly treated.
 
 ## Renewals
 
-Paid subscriptions renew automatically until cancelled. Our publishing platform emails
-you before an annual renewal.
+Paid subscriptions renew automatically until cancelled. Substack emails you before an
+annual renewal.
 
 **If an annual renewal catches you by surprise, tell us and we will refund it.** That
 holds even outside the 7-day window. Nobody should pay for a year they did not intend to
@@ -66,7 +66,7 @@ cancel before it takes effect.
 Email **[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)** from the
 address you subscribed with, or tell us which address it was.
 
-We reply within **three working days**. Approved refunds are issued through the original
+We reply within **three working days**. Approved refunds are issued through Stripe to the original
 payment method, and how quickly the money appears is down to your bank or card issuer,
 typically **5 to 10 working days**. We cannot speed that part up.
 

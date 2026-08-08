@@ -22,6 +22,7 @@ billing, so that we can find your record.
 ## What we can help with
 
 - Subscribing, unsubscribing, or changing the email address you receive issues at
+- Anything to do with your Substack account or a Stripe payment
 - Issues not arriving, arriving late, or landing in spam
 - Billing and refunds for paid subscriptions
 - Correcting a factual or numerical error in a published issue
