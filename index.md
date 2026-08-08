@@ -9,6 +9,7 @@ Policies for **The Microcap Minute** and **The Microcap Minute Global**, publish
 Ayush Agrawal.
 
 - [Disclaimer](disclaimer.html)
+- [Methodology](methodology.html)
 - [Customer Support](support.html)
 - [Privacy Policy](privacy.html)
 - [Terms of Service](terms.html)

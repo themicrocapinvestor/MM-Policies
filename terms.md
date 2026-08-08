@@ -37,7 +37,8 @@ another reader could reasonably reach a different one.
 
 ## 2. No investment advice
 
-The full [Disclaimer](disclaimer.html) applies to every issue and forms part of these terms.
+The full [Disclaimer](disclaimer.html) applies to every issue and forms part of these
+terms. How an issue is put together is set out in our [Methodology](methodology.html).
 
 Relative strength, price history, and past financial results describe what has already
 happened. They do not predict future returns. Any decision you take after reading is

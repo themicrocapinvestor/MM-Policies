@@ -8,7 +8,10 @@ title: Disclaimer
 *Last updated: 8 August 2026*
 
 This disclaimer applies to **The Microcap Minute** and **The Microcap Minute Global**,
-published by Ayush Agrawal. A version of it appears at the end of every issue.
+published by Ayush Agrawal. Every issue carries a short notice covering advice, positions
+and sources, and links here for the full text.
+
+How an issue is put together is set out separately in our [Methodology](methodology.html).
 
 ## What this publication is
 
