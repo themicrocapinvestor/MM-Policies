@@ -89,7 +89,7 @@ measurement that was never made.
 
 ## Used with permission
 
-Charts are reproduced from StockCharts.com under their reprint permission policy,
+Charts are reproduced from StockCharts.com under their [reprint permission policy](https://help.stockcharts.com/learning-more/policies-and-limitations/reprint-permission-policies),
 captured manually, with attribution beneath each chart and their copyright notice left
 intact.
 

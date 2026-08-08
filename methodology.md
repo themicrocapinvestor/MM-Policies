@@ -165,7 +165,7 @@ The next scheduled results date is printed, because a date is a fact rather than
 ## Sources
 
 **StockCharts.com** provides the Relative Rotation Graphs. They are read there on a paid
-subscription, captured by hand, and reproduced under their reprint permission policy.
+subscription, captured by hand, and reproduced under their [reprint permission policy](https://help.stockcharts.com/learning-more/policies-and-limitations/reprint-permission-policies).
 
 **StockAnalysis.com** provides every figure we print. Two exports are downloaded by hand
 each week, one covering US stocks and one covering funds.

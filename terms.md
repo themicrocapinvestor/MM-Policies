@@ -57,7 +57,7 @@ Two sources, supplying different things.
 **StockCharts.com** provides the Relative Rotation Graphs. These are what the publisher
 reads to decide which sectors an issue follows, which industry funds are shown, and which
 companies are carried into the tests, so they are the first input to every issue, and they are reproduced in each issue
-under StockCharts' reprint permission policy.
+under StockCharts' [reprint permission policy](https://help.stockcharts.com/learning-more/policies-and-limitations/reprint-permission-policies).
 
 **StockAnalysis.com** provides every figure we print: sector and fund prices, price and
 moving-average data, and company fundamentals. No number in our text, tables or cards is
@@ -76,7 +76,7 @@ own filings first.
 
 Original text, commentary, and selection methodology are the publisher's copyright.
 
-Charts are reproduced from **StockCharts.com** under their reprint permission policy,
+Charts are reproduced from **StockCharts.com** under their [reprint permission policy](https://help.stockcharts.com/learning-more/policies-and-limitations/reprint-permission-policies),
 with attribution and their copyright notice intact. **Relative Rotation Graph** and
 **RRG** are registered trademarks of RRG Research, used with permission. Financial data
 is used with permission from StockAnalysis.com and cited with a link back.
