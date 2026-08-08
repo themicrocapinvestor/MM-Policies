@@ -147,6 +147,11 @@ We may update these terms. Material changes will be announced in an issue rather
 made quietly. The date at the top reflects the current version, and continuing to read
 after a change means you accept it.
 
-## 13. Contact
+## 13. Contact and grievances
 
 **[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)**
+
+The Grievance Officer under the Consumer Protection (E-Commerce) Rules, 2020 and the
+Digital Personal Data Protection Act, 2023 is **Ayush Agrawal, Publisher**, reachable at
+the same address. Grievances are acknowledged within 48 hours and we aim to resolve them
+within one month. See our [Customer Support](support.html) page.

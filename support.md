@@ -65,6 +65,22 @@ told about a material error, we correct it and say so in the next issue.
 If you are unhappy with how a query was handled, reply to our response and ask for it to
 be reviewed. Complaints are read by the publisher personally.
 
+## Grievance Officer
+
+In accordance with the Consumer Protection (E-Commerce) Rules, 2020 and the Digital
+Personal Data Protection Act, 2023:
+
+**Name:** Ayush Agrawal, Publisher
+**Email:** [themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)
+
+Write to that address with "Grievance" in the subject line. **We acknowledge a grievance
+within 48 hours of receiving it and aim to resolve it within one month.** This covers
+billing, delivery, data protection, and complaints about the content or conduct of the
+publication.
+
+This is the same person who answers ordinary support email. The publication is one
+individual, and naming a separate officer would only obscure that.
+
 ## Accessibility
 
 If any part of an issue is difficult to read or access, tell us and we will send the

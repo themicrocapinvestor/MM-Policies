@@ -134,7 +134,15 @@ whatever country you read from.
 If this policy changes materially, we will say so in an issue rather than quietly
 updating this page. The date at the top always reflects the current version.
 
-## Questions
+## Questions and data grievances
 
 Email **[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)**. A real
 person reads it.
+
+For a formal complaint about how your personal data has been handled, the Grievance
+Officer under the Digital Personal Data Protection Act, 2023 is **Ayush Agrawal,
+Publisher**, at the same address. Put "Grievance" in the subject line. We acknowledge
+within 48 hours and aim to resolve within one month.
+
+If you are not satisfied with the outcome, you may complain to the Data Protection Board
+of India, or to your own supervisory authority if you are in the UK or EU.
