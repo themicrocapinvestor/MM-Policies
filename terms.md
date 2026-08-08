@@ -50,10 +50,16 @@ time. See our [Customer Support](support.html) page.
 
 ## 3. Data, and its limits
 
-Every figure we report comes from **StockAnalysis.com**: sector and fund prices, price
-and moving-average data, and company fundamentals. **StockCharts.com** supplies the
-relative rotation graphs, which are reproduced as images. Nothing is read out of a chart
-into our text, tables or cards.
+Two sources, supplying different things.
+
+**StockCharts.com** provides the Relative Rotation Graphs. These are what the publisher
+reads to decide which sectors an issue follows and which companies are carried into the
+tests, so they are the first input to every issue, and they are reproduced in each issue
+under StockCharts' reprint permission policy.
+
+**StockAnalysis.com** provides every figure we print: sector and fund prices, price and
+moving-average data, and company fundamentals. No number in our text, tables or cards is
+read out of a chart.
 
 **These figures are not independently verified against companies' own filings.** Where a
 source and a company's filing disagree, our pages follow the source. An error upstream
