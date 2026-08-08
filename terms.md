@@ -30,6 +30,8 @@ excluded from coverage.
 
 ## 2. No investment advice
 
+The full [Disclaimer](disclaimer.html) applies to every issue and forms part of these terms.
+
 Relative strength, price history, and past financial results describe what has already
 happened. They do not predict future returns. Any decision you take after reading is
 yours alone.
