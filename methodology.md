@@ -157,8 +157,11 @@ All of these are available in the data and none of them appears in an issue:
 - **Every forward estimate**, including next quarter revenue and earnings growth. A PEG
   ratio is suppressed for the same reason when a company has no trailing P/E, because the
   published one is built on forecasts
-- **Any score, ranking or conviction measure of our own.** The shortlist is the output of
-  tests, not a rating, and the companies in it are not ordered by preference
+- **Any score, whether ours or anyone else's.** No conviction measure, no ranking, and no
+  third-party quality scores such as Piotroski or Altman Z, all of which are in the data.
+  The shortlist is the output of tests, not a rating, and a nine point quality score
+  printed beside that claim invites a reader to treat it as one. The companies are not
+  ordered by preference
 
 The next scheduled results date is printed, because a date is a fact rather than a forecast.
 
