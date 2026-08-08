@@ -165,6 +165,17 @@ All of these are available in the data and none of them appears in an issue:
 
 The next scheduled results date is printed, because a date is a fact rather than a forecast.
 
+Each company card also shows its P/E against its own three, five and ten year averages.
+**Three averages cannot give a range**, because averaging destroys the spread a range would
+have to be recovered from: an average of twenty could come from a series that ran ten to
+thirty or one that never left nineteen to twenty one. What they do show is whether a company
+is dearer or cheaper than it has been, and in which direction that has been moving.
+
+**Read a very large average as a warning rather than a valuation.** A single period of near
+zero earnings sends the ratio to hundreds and drags the average with it, so a high average
+usually marks a bad year rather than an expensive share. Where a company has no P/E today,
+because it is losing money, the history is left blank rather than shown against nothing.
+
 ## Sources
 
 **StockCharts.com** provides the Relative Rotation Graphs. They are read there on a paid
