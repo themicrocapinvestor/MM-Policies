@@ -36,17 +36,46 @@ the companies.
 Every week we read a Relative Rotation Graph of the **eleven Select Sector SPDR funds**
 against the S&P 500, on charts from StockCharts.com.
 
-A rotation graph plots two things at once: how strong something is against the index, and
-whether that strength is growing or fading. So a sector can be strong and weakening, or
-weak and improving, and the graph separates the two where a single return number cannot.
+#### How a rotation graph is read
 
-**The rule we read it by:**
+A rotation graph places two measurements on one picture.
+
+**Across** is strength against the benchmark. **Up** is whether that strength is building
+or fading. Both are centred on 100, which means behaving exactly like the index. So the
+picture divides into four:
+
+| | strength building | strength fading |
+|---|---|---|
+| **stronger than the index** | Leading | Weakening |
+| **weaker than the index** | Improving | Lagging |
+
+Things tend to travel clockwise through those four over time, though nothing obliges them
+to, and plenty stall or reverse halfway.
+
+**A tail is the path over recent weeks, and the arrowhead is the only thing telling you
+which end is now.** Without it a tail is ambiguous in both directions, and reading one
+backwards turns a name rotating out of Leading into an apparent leader.
+
+Four principles, each learned by getting it wrong first:
+
+- **Direction beats position.** A name sitting in Leading with its tail turning down is
+  rotating out of it, not leading. The quadrant label alone is not the signal.
+- **Distance from the centre is not quality.** For something on the weak side, a bigger
+  gap mostly means it sits further left, which is further from Leading, not better. Sorting
+  by how far a thing has travelled rewards the wrong thing.
+- **A short tail says nothing.** Something sitting near the centre is behaving like the
+  index, and length is what separates a real rotation from noise.
+- **The benchmark must be the same everywhere.** Measured against a sector fund instead of
+  the index, the same companies on the same day can read Leading or Weakening. Every graph
+  we read is against the S&P 500, without exception.
+
+**It is a screener, not a timing tool.** It says where attention is going, not when to act,
+and nothing in an issue is an instruction to do anything.
+
+#### The rule we read it by
 
 > On every ticker we look for a long tail. Trajectory matters more than position, so we
 > favour names moving north east, in the Leading or Improving quadrant.
-
-A short tail sitting near the middle of the graph is something behaving like the index,
-and there is nothing to read in it. Length is what separates a real rotation from noise.
 
 **A name already leading but turning down is not a candidate.** That exclusion matters as
 much as the rule itself.
@@ -161,5 +190,10 @@ Stated plainly, because a method described without them is a sales pitch.
   report, which is why the next results date is printed beside each company.
 
 ---
+
+**Relative Rotation Graph** and **RRG** are registered trademarks of RRG Research, used
+with permission. The graphs are published by StockCharts.com and are read there on a paid
+subscription. Neither is affiliated with this publication and neither has reviewed or
+endorsed anything in it.
 
 The full [Disclaimer](disclaimer.html) applies to every issue.
