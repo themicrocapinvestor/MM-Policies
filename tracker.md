@@ -207,8 +207,10 @@ reviewed it, endorsed it, or is aware of it. The SEC is not affiliated with us i
 and nothing here is published with its knowledge or approval.
 
 **The tracker itself is public.** The filings we collect and how we collect them are at
-**PUT THE REPOSITORY LINK IN**, so that any reader can check our reading against the
-original documents rather than take our word for it.
+[github.com/themicrocapinvestor/smart-investor-tracker](https://github.com/themicrocapinvestor/smart-investor-tracker),
+so that any reader can check our reading against the original documents rather than take
+our word for it. Everything there comes from filings the SEC publishes, and anyone can
+pull the same documents from EDGAR themselves.
 
 ## And the usual, because it applies here too
 
