@@ -27,9 +27,18 @@ that appear in an issue are selected by the tests published in our
 [Methodology](methodology.html), applied to market data. Whether the publisher distributes
 anything, and to whom, has no bearing on that process at any stage.
 
-Subscription revenue from the newsletter and any commission earned as a distributor are
-separate income from separate activities with separate customers, and this page is the
-only place on this site where the second one is discussed.
+**For completeness, the newsletter does earn one thing besides subscriptions.** The
+publication participates in the StockAnalysis.com affiliate programme and may earn a
+commission when a reader subscribes to that service through a link in an issue, at no cost
+to the reader. That arrangement is disclosed in full in the
+[Disclaimer](disclaimer.html), it is with a data provider rather than with any portfolio
+manager, and it is not distribution commission. It is mentioned here so that this page is
+not read as claiming the newsletter has only one source of income.
+
+So there are three income streams and they do not touch: subscriptions to the newsletter,
+the data affiliate arrangement disclosed in the Disclaimer, and any commission earned as a
+distributor, which is a separate activity with separate customers and is discussed only on
+this page.
 
 ## The code of conduct we follow
 
