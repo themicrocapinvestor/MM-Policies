@@ -10,6 +10,7 @@ Ayush Agrawal.
 
 - [Disclaimer](disclaimer.html)
 - [Methodology](methodology.html)
+- [How We Use AI](ai.html)
 - [Customer Support](support.html)
 - [Privacy Policy](privacy.html)
 - [Terms of Service](terms.html)
