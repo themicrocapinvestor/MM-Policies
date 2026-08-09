@@ -18,9 +18,9 @@ about the division of labour, which is the part that affects you.
 
 ## The tools we use, by name
 
-**Claude**, made by Anthropic, and **Kimi**, made by Moonshot AI. Both are used to build
-and maintain the software that assembles an issue, and as research assistants: reading
-long filings, checking sources, and arguing with the author about wording and reasoning.
+**Claude**, made by Anthropic, and **Kimi**, made by Moonshot AI. Both are used as
+engineering and research tools: they help build and maintain the software behind the
+publication, and they help gather and organise source material.
 
 **Sarvam AI**, an Indian speech company, whose text to speech reads the audio edition
 aloud. The voice on that recording is synthetic. It says so itself, by name, in the first
@@ -46,22 +46,22 @@ Where a figure cannot be computed, a dash is printed. Nothing is estimated, infe
 filled in, by a model or by anyone else.
 
 **It does not write the company deep dives.** Those are written by the author, from the
-filings, the earnings calls and the company's own material. AI helps gather and read that
-material and will happily argue about it; the judgements and the words are his.
+filings, the earnings calls and the company's own material. The judgements and the words
+are his.
 
-## What is generated, and how
+## The words are ours
 
-The sentences in a weekly issue are assembled by software from that week's numbers. This
-is worth explaining precisely, because "generated" has come to mean one thing and here it
-means another.
+This is worth setting out precisely, because "generated" has come to mean one thing and
+here it means another.
 
-Those sentences were written once, by hand, with AI assistance, as part of the software.
-Each week the software fills them with the current figures and publishes the result. **No
-language model writes any part of an issue at the moment it is published.** The wording is
-fixed in advance and reviewed; what changes weekly is the data inside it.
+**We write the sentences.** They are written, edited and signed off by the author before
+they are ever used, and they are fixed in advance rather than produced on the day. What
+the software does each week is fill those sentences with that week's figures. **No
+language model writes, rewrites, or chooses any part of an issue at the moment it is
+published, and none decides what an issue says.**
 
-The audio edition works the same way, with one addition: its script is produced from the
-same numbers, edited by hand before recording, and then read aloud by the Sarvam voice.
+The audio edition works the same way. Its script is written and edited before recording,
+and the Sarvam voice reads it aloud without changing a word.
 
 ## Who is responsible
 
@@ -74,4 +74,4 @@ impersonal commentary of general and regular circulation. It is not investment a
 is not a recommendation to buy or sell anything, and it is not tailored to any person.
 
 Questions about any of this are welcome at
-[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com).
+[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in).

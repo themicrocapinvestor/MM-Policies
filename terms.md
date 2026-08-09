@@ -11,7 +11,7 @@ These terms govern your use of **The Microcap Minute** and **The Microcap Minute
 Global**, published by Ayush Agrawal ("we", "us"). By subscribing to or reading an issue,
 you accept them.
 
-Contact: **[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)**
+Contact: **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 
 ## 1. What this publication is
 
@@ -157,7 +157,7 @@ after a change means you accept it.
 
 ## 13. Contact and grievances
 
-**[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)**
+**[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 
 The Grievance Officer under the Consumer Protection (E-Commerce) Rules, 2020 and the
 Digital Personal Data Protection Act, 2023 is **Ayush Agrawal, Publisher**, reachable at

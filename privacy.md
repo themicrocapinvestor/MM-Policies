@@ -11,7 +11,7 @@ This policy explains what personal data **The Microcap Minute** and **The Microc
 Minute Global** collect, why, and what you can do about it. The publisher is Ayush
 Agrawal, who is the data controller for the purposes of this policy.
 
-Contact: **[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)**
+Contact: **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 
 ## What we collect
 
@@ -136,7 +136,7 @@ updating this page. The date at the top always reflects the current version.
 
 ## Questions and data grievances
 
-Email **[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)**. A real
+Email **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**. A real
 person reads it.
 
 For a formal complaint about how your personal data has been handled, the Grievance

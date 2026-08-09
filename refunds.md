@@ -10,7 +10,7 @@ title: Cancellation and Refund Policy
 This policy covers cancellations and refunds for paid subscriptions to **The Microcap
 Minute** and **The Microcap Minute Global**, published by Ayush Agrawal.
 
-Contact: **[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)**
+Contact: **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 
 ## Cancelling
 
@@ -63,7 +63,7 @@ cancel before it takes effect.
 
 ## How to ask
 
-Email **[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)** from the
+Email **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)** from the
 address you subscribed with, or tell us which address it was.
 
 We reply within **three working days**. Approved refunds are issued through Stripe to the original

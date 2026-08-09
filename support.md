@@ -11,7 +11,7 @@ title: Customer Support
 
 ## How to reach us
 
-Email **[themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)**.
+Email **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**.
 
 This is the only support channel. We do not operate a phone line, and we do not provide
 support through social media replies or direct messages.
@@ -71,7 +71,7 @@ In accordance with the Consumer Protection (E-Commerce) Rules, 2020 and the Digi
 Personal Data Protection Act, 2023:
 
 **Name:** Ayush Agrawal, Publisher
-**Email:** [themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)
+**Email:** [hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)
 
 Write to that address with "Grievance" in the subject line. **We acknowledge a grievance
 within 48 hours of receiving it and aim to resolve it within one month.** This covers

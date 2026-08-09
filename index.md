@@ -16,6 +16,6 @@ Ayush Agrawal.
 - [Terms of Service](terms.html)
 - [Cancellation and Refund Policy](refunds.html)
 
-Contact: [themicrocapinvestor@gmail.com](mailto:themicrocapinvestor@gmail.com)
+Contact: [hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)
 
 Read the newsletter at [themicrocapminute.in](https://www.themicrocapminute.in/).
