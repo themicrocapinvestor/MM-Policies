@@ -8,8 +8,9 @@ title: Smart Investors Tracker
 *Last updated: 10 August 2026*
 
 We follow the public regulatory filings of thirty investors. This page names all thirty and
-says why each one is on the list. The filings themselves are published in a separate public
-repository, linked at the foot of this page, so that anyone can check what we are reading.
+says why each one is on the list. What we actually read is published as it comes in, on two
+open pages linked at the foot of this page, along with the code that collects it, so that
+anyone can check our reading against the original documents.
 
 ## Read this part first
 
@@ -206,11 +207,21 @@ None of the investors named on this page has any connection to this publication.
 reviewed it, endorsed it, or is aware of it. The SEC is not affiliated with us in any way,
 and nothing here is published with its knowledge or approval.
 
-**The tracker itself is public.** The filings we collect and how we collect them are at
-[github.com/themicrocapinvestor/smart-investor-tracker](https://github.com/themicrocapinvestor/smart-investor-tracker),
-so that any reader can check our reading against the original documents rather than take
-our word for it. Everything there comes from filings the SEC publishes, and anyone can
-pull the same documents from EDGAR themselves.
+**The tracker itself is public, and there are two pages of it.**
+
+**[Smart Investor Tracker](https://themicrocapinvestor.github.io/smart-investor-tracker/)**
+is the running feed. The filings that arrived, read every morning and written out in plain
+English, keeping the last thirty one days.
+
+**[Smart Investor Portfolios](https://themicrocapinvestor.github.io/smart-investor-tracker/portfolios.html)**
+is the standing picture. What each investor owns from their most recent quarterly report,
+and what it is worth.
+
+**And the working is public too.** The code that collects all of it is at
+[github.com/themicrocapinvestor/smart-investor-tracker](https://github.com/themicrocapinvestor/smart-investor-tracker).
+Everything on both pages comes from filings the SEC publishes, and anyone can pull the
+same documents from EDGAR themselves and check our reading against the originals rather
+than take our word for it.
 
 ## And the usual, because it applies here too
 
