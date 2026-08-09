@@ -63,9 +63,10 @@ everything it knows.
 
 So the ordering below is, in this order: how concentrated the portfolio is, whether the
 person named on the door still makes the decisions, the length and quality of the record,
-and how recently they last filed. The starting universe was the ninety seven investors
-listed by ValueSider, and two independent lists were drawn from it and then reconciled
-against sources.
+and how recently they last filed. The starting universe came from our own study of the
+investors who file public holdings reports in the United States. Two separate shortlists
+were drawn up independently, then reconciled against published sources before anybody was
+added or left out.
 
 ---
 
@@ -197,14 +198,13 @@ you much.
 
 ## Sources, and what we owe them
 
-The starting universe of ninety seven investors is from **ValueSider**. The filings
-themselves are public records published by the **United States Securities and Exchange
-Commission** and are free for anyone to read. Records, dates and current status were
-checked against published reporting before anybody was added or left out.
+The filings themselves are public records published by the **United States Securities and
+Exchange Commission** and are free for anyone to read. Records, dates and current status
+were checked against published reporting before anybody was added or left out.
 
 None of the investors named on this page has any connection to this publication. None has
-reviewed it, endorsed it, or is aware of it. Neither ValueSider nor the SEC is affiliated
-with us in any way.
+reviewed it, endorsed it, or is aware of it. The SEC is not affiliated with us in any way,
+and nothing here is published with its knowledge or approval.
 
 **The tracker itself is public.** The filings we collect and how we collect them are at
 **PUT THE REPOSITORY LINK IN**, so that any reader can check our reading against the
