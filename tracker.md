@@ -73,41 +73,36 @@ against sources.
 
 ### Where a single decision carries the most weight
 
-**1. Warren Buffett, Berkshire Hathaway.** Twenty nine positions. We do not track him for
-ideas, which at his size would be pointless. We track him because the reasoning behind
+**1. Warren Buffett, Berkshire Hathaway.** We do not track him for ideas, which at his size would be pointless. We track him because the reasoning behind
 every holding is published every year, and that is the standard we try to write to.
 
-**2. Chris Hohn, TCI Fund Management.** Ten positions holding tens of billions, which is
-the highest conviction per dollar on the list. He is also having a harder 2026 after a
+**2. Chris Hohn, TCI Fund Management.** A very small number of holdings for the size of
+the fund, which is the highest conviction per dollar on the list. He is also having a harder 2026 after a
 record 2025, and watching a good investor inside a difficult period is more instructive
 than watching one during a good one.
 
-**3. Li Lu, Himalaya Capital.** Fourteen positions, and a quarter century of running money
-with the same approach. Charlie Munger entrusted him with his own family's capital, which
+**3. Li Lu, Himalaya Capital.** A quarter century of running money the same way. Charlie Munger entrusted him with his own family's capital, which
 is a stronger reference than any marketing document.
 
-**4. Dev Kantesaria, Valley Forge Capital.** Seven positions, and effectively the entire
-fund sits in its top ten. The purest working example anywhere of buying a small number of
+**4. Dev Kantesaria, Valley Forge Capital.** The purest working example anywhere of buying a small number of
 businesses with durable competitive advantages and then leaving them alone.
 
-**5. Norbert Lou, Punch Card Management.** Five positions, and he trades very rarely. That
-combination means any change at all in his filing is worth stopping to read.
+**5. Norbert Lou, Punch Card Management.** He trades very rarely and holds very little at
+a time, so any change at all in his filing is worth stopping to read.
 
-**6. Seth Klarman, Baupost Group.** Twenty two positions, and decades of writing about risk
-before return. The caution is that his US equity filing is a small part of what the firm
+**6. Seth Klarman, Baupost Group.** Decades of writing about risk before return. The caution is that his US equity filing is a small part of what the firm
 does, so we read it as a fragment.
 
-**7. David Abrams, Abrams Capital.** Eleven positions, no borrowed money, running since
-1999, and almost no public profile at all.
+**7. David Abrams, Abrams Capital.** No borrowed money, running since 1999, and almost no
+public profile at all.
 
-**8. Clifford Sosin, CAS Investment Partners.** Five positions. A new name appearing here
-represents a very long piece of work on a single business.
+**8. Clifford Sosin, CAS Investment Partners.** A new name appearing here represents a very long piece of work on a single business.
 
-**9. Mark Massey, AltaRock Partners.** Eight positions and long holding periods, with
-almost no public commentary, which makes the filing the only thing he says.
+**9. Mark Massey, AltaRock Partners.** Long holding periods and almost no public
+commentary, which makes the filing the only thing he says.
 
-**10. Bill Ackman, Pershing Square.** Eleven positions, and he publishes the full argument
-for each one. Whether or not you agree with him, those presentations are among the best
+**10. Bill Ackman, Pershing Square.** He publishes the full argument for everything he
+owns. Whether or not you agree with him, those presentations are among the best
 freely available material on how to make an investment case.
 
 ### Quality and engagement at scale
@@ -116,8 +111,7 @@ freely available material on how to make an investment case.
 advantages that much of the industry now uses, including us. We track him partly to see
 how he applies it, and partly because he has been openly revising it.
 
-**12. Akre Capital Management.** Twenty positions of businesses bought to be held for a
-very long time. Note that Chuck Akre stepped back from running the strategy in 2020, so we
+**12. Akre Capital Management.** Businesses bought to be held for a very long time. Note that Chuck Akre stepped back from running the strategy in 2020, so we
 read it as the firm's process rather than one person's judgement.
 
 **13. Terry Smith, Fundsmith.** On the list because the last few years have been hard for
@@ -130,19 +124,20 @@ decades of compounding, and almost no publicity.
 **15. Duan Yongping, H&H International.** The only person here who built large operating
 businesses before he managed money, which shows in what he buys.
 
-**16. Greg Alexander, Conifer Management.** Six positions and no public profile whatsoever.
+**16. Greg Alexander, Conifer Management.** Concentrated, and no public profile
+whatsoever.
 
-**17. Mohnish Pabrai.** Very few positions, and unusually open about his method and his
-mistakes, both of which he has taught publicly for years.
+**17. Mohnish Pabrai.** Unusually open about his method and about his own mistakes, both
+of which he has taught publicly for years.
 
 **18. Jeffrey Ubben, ValueAct Holdings.** Engagement conducted from a board seat rather
 than through the press, which means long holding periods and visible reasoning.
 
-**19. Nelson Peltz, Trian Fund Management.** Eight positions, and each one becomes a public
-argument about how a company should be run.
+**19. Nelson Peltz, Trian Fund Management.** Each holding becomes a public argument about
+how a company should be run.
 
-**20. Bruce Berkowitz, Fairholme Capital.** Ten positions and a rare willingness to look
-wrong for years at a time, which is a useful corrective to anything selected on momentum.
+**20. Bruce Berkowitz, Fairholme Capital.** A rare willingness to look wrong for years at
+a time, which is a useful corrective to anything selected on momentum.
 
 ### Long records, read every quarter
 
@@ -171,8 +166,8 @@ he buys.
 **28. Henry Ellenbogen, Durable Capital Partners.** Among the more interesting of the newer
 generation, and one of the most recent filers on the whole list.
 
-**29. Dennis Hong, ShawSpring Partners.** Twelve positions built around a specific idea
-about how businesses defend themselves, and he is openly on the record about how volatile
+**29. Dennis Hong, ShawSpring Partners.** Positions built around a specific idea about how
+businesses defend themselves, and he is openly on the record about how volatile
 the fund is.
 
 **30. Christopher Bloomstran, Semper Augustus.** Not for the filing. His annual letter runs
