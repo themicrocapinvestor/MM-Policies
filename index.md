@@ -8,6 +8,7 @@ title: Policies
 Policies for **The Microcap Minute** and **The Microcap Minute Global**, published by
 Ayush Agrawal.
 
+- [About](about.html)
 - [Disclaimer](disclaimer.html)
 - [Methodology](methodology.html)
 - [How We Use AI](ai.html)
