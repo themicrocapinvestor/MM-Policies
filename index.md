@@ -13,6 +13,7 @@ Ayush Agrawal.
 - [Methodology](methodology.html)
 - [How We Use AI](ai.html)
 - [Smart Investors Tracker](tracker.html)
+- [Promoter Buying](promoter-buying.html)
 - [Distributor Code of Conduct](distributor.html)
 - [Customer Support](support.html)
 - [Privacy Policy](privacy.html)
