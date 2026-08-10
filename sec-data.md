@@ -69,7 +69,7 @@ page states, under *Fair access*:
 
 Our collection follows both. Every request our system makes carries a declared identity
 naming this publication and a contact address, exactly as the SEC's sample headers
-prescribe. The system runs once each morning and makes a few dozen requests in total —
+prescribe. The system runs once each morning and makes a few dozen requests in total,
 a small fraction of the permitted rate, and nothing like the botnets the rule is aimed at.
 
 Nor is the data something we are merely tolerated in taking. The SEC maintains a
