@@ -54,7 +54,7 @@ They do not show cash, bonds, or anything that is not a listed US equity. And a 
 apply to have a position kept confidential for a period while they build it, so a filing
 can be genuinely incomplete rather than merely late.
 
-## How the thirty were chosen
+## Methodology: how the thirty were chosen
 
 Ranking investors by how much money they run is the obvious approach and it is the wrong
 one. Because these filings are stale by design, the only thing that varies their usefulness
@@ -62,12 +62,21 @@ is how much of one person's judgement each position carries. A fund holding two 
 companies has told you almost nothing by adding one more. A fund holding five has told you
 everything it knows.
 
-So the ordering below is, in this order: how concentrated the portfolio is, whether the
-person named on the door still makes the decisions, the length and quality of the record,
-and how recently they last filed. The starting universe came from our own study of the
-investors who file public holdings reports in the United States. Two separate shortlists
-were drawn up independently, then reconciled against published sources before anybody was
-added or left out.
+**The list is our own.** We started from the investors who file public holdings reports in
+the United States and whose records are long enough to be judged, read what has been
+published about each of them, and then asked four things of each: how concentrated the
+portfolio is, whether the person named on the door still makes the decisions, how long and
+how good the record is, and how recently they last filed. Two shortlists were drawn up
+separately and then argued against each other, which is how several names were added and
+one was taken out. Every claim about a record or a status was checked against published
+reporting before anybody was included or left off, and the words on this page are ours.
+
+**This is a different exercise from the one in our [Methodology](methodology.html) page,
+and the two should not be confused.** That page sets out the eleven tests that decide which
+companies appear in an issue, applied to market data, and it is the only thing that decides
+what we publish. What is described here is how we chose whose filings to read. No investor
+on this list has any bearing on which companies pass those tests, and no company passes
+them because somebody on this list owns it.
 
 ---
 
