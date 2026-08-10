@@ -59,7 +59,8 @@ reading against the originals.
 
 The SEC is not affiliated with us in any way, and nothing here is published with its
 knowledge or approval. No insider or company named on the page has any connection to
-this publication.
+this publication. The SEC's own rules on reusing what it publishes, and how we follow
+them, are set out in [SEC Data and Public Filings](sec-data.html).
 
 ## And the usual, because it applies here too
 

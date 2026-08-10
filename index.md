@@ -14,6 +14,7 @@ Ayush Agrawal.
 - [How We Use AI](ai.html)
 - [Smart Investors Tracker](tracker.html)
 - [Promoter Buying](promoter-buying.html)
+- [SEC Data and Public Filings](sec-data.html)
 - [Distributor Code of Conduct](distributor.html)
 - [Customer Support](support.html)
 - [Privacy Policy](privacy.html)

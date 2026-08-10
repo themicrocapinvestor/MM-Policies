@@ -214,7 +214,9 @@ were checked against published reporting before anybody was added or left out.
 
 None of the investors named on this page has any connection to this publication. None has
 reviewed it, endorsed it, or is aware of it. The SEC is not affiliated with us in any way,
-and nothing here is published with its knowledge or approval.
+and nothing here is published with its knowledge or approval. The SEC's own rules on
+reusing what it publishes, and how we follow them, are set out in
+[SEC Data and Public Filings](sec-data.html).
 
 **The tracker itself is public, and there are two pages of it.**
 
