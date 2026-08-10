@@ -9,8 +9,8 @@ title: Smart Investors Tracker
 
 We follow the public regulatory filings of thirty investors. This page names all thirty and
 says why each one is on the list. What we actually read is published as it comes in, on two
-open pages linked at the foot of this page, along with the code that collects it, so that
-anyone can check our reading against the original documents.
+open pages linked at the foot of this page, so that anyone can check our reading against
+the original filings.
 
 ## Read this part first
 
@@ -226,11 +226,11 @@ English, keeping the last thirty one days.
 is the standing picture. What each investor owns from their most recent quarterly report,
 and what it is worth.
 
-**And the working is public too.** The code that collects all of it is at
-[github.com/themicrocapinvestor/smart-investor-tracker](https://github.com/themicrocapinvestor/smart-investor-tracker).
-Everything on both pages comes from filings the SEC publishes, and anyone can pull the
-same documents from EDGAR themselves and check our reading against the originals rather
-than take our word for it.
+**The code behind them is our own and is not published.** What it produces is, which is
+the part that matters to a reader: everything on both pages comes from filings the SEC
+publishes, every entry says which filing it came from, and anyone can pull the same
+documents from EDGAR and check our reading against the originals rather than take our word
+for it.
 
 ## And the usual, because it applies here too
 
