@@ -5,7 +5,7 @@ title: Terms of Service
 
 # Terms of Service
 
-*Last updated: 8 August 2026*
+*Last updated: 10 August 2026*
 
 These terms govern your use of **The Microcap Minute** and **The Microcap Minute
 Global**, published by Ayush Agrawal ("we", "us"). By subscribing to or reading an issue,
@@ -96,6 +96,10 @@ made from price and relative-strength data alone, first by the publisher's own r
 it and then by the tests published in each issue, before any fundamental data or
 commercial consideration enters the process.
 
+The **Smart Investor Tracker** and **Smart Investor Portfolios** pages work the same way:
+every company named on them links to its StockAnalysis.com page carrying our referral
+code. The same programme, and the same independence rule, applies.
+
 We accept no payment from any company covered, from any promoter, or from any investor
 relations firm, and never have.
 
@@ -118,6 +122,14 @@ end of the current billing period. Cancellations and refunds are governed by our
 
 We may change subscription pricing on notice, which will not affect a period you have
 already paid for.
+
+**Smart Investor Tracker email alerts are sold separately**, through Zoho's payment
+services (Zoho Checkout and Zoho Payments). A payment of Rs. 199 covers 365 days of
+alerts, is taken **once**, and does not renew automatically; when the year ends the alerts
+simply stop until you pay again. Your use of Zoho's services is subject to their terms,
+and we never see or hold your card, UPI, or banking details. Cancellations and refunds
+for alert payments follow the same [Cancellation and Refund Policy](refunds.html), issued
+through Zoho to the original payment method.
 
 ## 8. Your responsibilities
 

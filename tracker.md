@@ -232,6 +232,22 @@ publishes, every entry says which filing it came from, and anyone can pull the s
 documents from EDGAR and check our reading against the originals rather than take our word
 for it.
 
+## The email alerts: what is paid and what is not
+
+**The two pages are free and will stay free.** Everything we read, every filing, every
+portfolio, is on them for anyone, forever.
+
+If you would rather have the week's filings delivered than fetch them, that is the paid
+part. **Smart Investor Tracker alerts** are one email each Monday holding every filing the
+thirty made that week, in the same plain English as the pages, for **Rs. 199 for a year**.
+Payment is taken once, through Zoho (UPI, cards, net banking), covers 365 days, and
+**does not renew by itself**. New subscribers receive the current week's edition
+immediately after their payment is confirmed, then every Monday.
+
+**The data in the emails is the same data that is on the free pages.** You are paying for
+delivery, not for access to anything hidden. Cancellations and refunds follow our
+[Cancellation and Refund Policy](refunds.html), the same as everything else we sell.
+
 ## And the usual, because it applies here too
 
 This publication is impersonal commentary of general and regular circulation. It is not

@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-*Last updated: 8 August 2026*
+*Last updated: 10 August 2026*
 
 This policy explains what personal data **The Microcap Minute** and **The Microcap
 Minute Global** collect, why, and what you can do about it. The publisher is Ayush
@@ -21,7 +21,8 @@ for, and it is the only one we need.
 **A name, if you choose to give one.** It is optional and used only to address you.
 
 **Billing details, if you take a paid subscription.** These are collected and held by
-**Substack** and its payment processor **Stripe**. We never see or store your card
+**Substack** and its payment processor **Stripe**, or, for Smart Investor Tracker alerts,
+by **Zoho Payments**. We never see or store your card
 number, and we have no access to it.
 
 **Delivery and engagement data**, generated automatically by **Substack**:
@@ -60,6 +61,14 @@ Running a newsletter means using other companies, and they process data on our b
 
 Each of these has its own privacy policy governing what it does with data. We choose
 providers that do not sell subscriber data.
+
+For **Smart Investor Tracker email alerts**, two more processors are involved, both from
+Zoho and both hosted in Zoho's Indian data centres:
+
+- **Zoho Campaigns**, which holds the alert subscriber list and sends the alert emails.
+  See [Zoho's Privacy Policy](https://www.zoho.com/privacy.html).
+- **Zoho Payments / Zoho Checkout**, which process payment for the alerts. As with
+  Stripe, we never see or store your card, UPI, or banking details.
 
 ## Links to other websites
 
