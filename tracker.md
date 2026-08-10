@@ -243,10 +243,7 @@ thirty made that week and the week's S&P 500 promoter buying, in the same plain 
 as the pages, for **Rs. 199 for a year**.
 Payment is taken once, through Zoho (UPI, cards, net banking), covers 365 days, and
 **does not renew by itself**. New subscribers receive the current week's edition
-immediately after their payment is confirmed, then every Monday. The Monday editions are
-sent through Zoho Campaigns, which asks you to confirm your email address once, by
-clicking a link in a short verification email, before it can send to you. If that email
-does not turn up, check the spam folder or write to us.
+immediately after their payment is confirmed, then every Monday.
 
 **The data in the emails is the same data that is on the free pages.** You are paying for
 delivery, not for access to anything hidden. Cancellations and refunds follow our
