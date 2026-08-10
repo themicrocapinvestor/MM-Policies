@@ -56,8 +56,9 @@ Running a newsletter means using other companies, and they process data on our b
 - **Stripe, Inc.**, which processes payments for paid subscriptions and holds the card
   and billing details we never see. See
   [Stripe's Privacy Policy](https://stripe.com/privacy).
-- **Google**, which provides the mailbox behind our support address, for any message you
-  send us directly.
+- **Zoho Corporation**, which provides the mailbox behind our support address (Zoho
+  Mail), hosted in its Indian data centres, for any message you send us directly. See
+  [Zoho's Privacy Policy](https://www.zoho.com/privacy.html).
 
 Each of these has its own privacy policy governing what it does with data. We choose
 providers that do not sell subscriber data.
@@ -87,6 +88,11 @@ The newsletter itself is delivered by email and sets no cookies on your device.
 Substack's website sets its own cookies when you visit it, governed by
 [Substack's cookie and privacy policy](https://substack.com/privacy), not by this one.
 Stripe sets cookies during checkout for fraud prevention.
+
+The Smart Investor Tracker pages set no cookies either. They store a single dismissal
+flag in your browser's local storage so a popup you have closed does not reappear, and
+that flag never leaves your device. Zoho's checkout sets its own cookies during payment,
+governed by Zoho's policy.
 
 ## How long we keep things
 
