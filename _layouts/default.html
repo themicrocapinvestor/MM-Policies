@@ -30,6 +30,17 @@
                 color:var(--mute); font-size:.9rem; }
   footer.site a { text-decoration:none; }
   .back { display:inline-block; margin-top:.5rem; }
+  .pagenav2 { position:fixed; left:0; top:45%; z-index:70; }
+  .pagenav2 .tab { background:#C9A227; color:#080808; font-weight:700; font-size:11px;
+    letter-spacing:1px; padding:10px 7px; border-radius:0 4px 4px 0; writing-mode:vertical-rl;
+    text-transform:uppercase; cursor:default; }
+  .pagenav2 .links { display:none; position:absolute; left:100%; top:0; background:#171717;
+    border:1px solid #C9A227; border-radius:0 6px 6px 6px; padding:10px 0; min-width:160px; }
+  .pagenav2:hover .links { display:block; }
+  .pagenav2 .links a { display:block; color:#d9d9d9; font-size:12.5px; padding:8px 16px;
+    text-decoration:none; }
+  .pagenav2 .links a:hover { color:#C9A227; background:#080808; }
+  .pagenav2 .links .sep { display:block; border-top:1px solid #333; margin:6px 0; }
 </style>
 </head>
 <body>
@@ -46,5 +57,12 @@
     <a class="back" href="{{ '/' | relative_url }}">All policies</a>
   </footer>
 </div>
+<div class="pagenav2"><span class="tab">Pages</span><span class="links">
+<a href="https://themicrocapinvestor.github.io/smart-investor-tracker/index.html">Filing Feed</a>
+<a href="https://themicrocapinvestor.github.io/smart-investor-tracker/portfolios.html">Portfolios</a>
+<a href="https://themicrocapinvestor.github.io/smart-investor-tracker/promoter-buying.html">Promoter Buying</a>
+<a href="https://themicrocapinvestor.github.io/smart-investor-tracker/special-situations.html">Special Situations</a><span class="sep"></span>
+<a href="https://www.themicrocapminute.in">The Microcap Minute</a>
+<a href="https://themicrocapinvestor.github.io/MM-Policies/">Policies</a></span></div>
 </body>
 </html>
