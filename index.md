@@ -16,6 +16,7 @@ Ayush Agrawal.
 - [Promoter Buying](promoter-buying.html)
 - [Special Situations](special-situations.html)
 - [IPO Watch](ipo-dashboard.html)
+- [Cabinet Watch](cabinet.html)
 - [Filings Search](filings-search.html)
 - [Reports](reports.html)
 - [SEC Data and Public Filings](sec-data.html)
