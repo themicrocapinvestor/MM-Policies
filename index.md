@@ -17,6 +17,7 @@ Ayush Agrawal.
 - [Special Situations](special-situations.html)
 - [IPO Watch](ipo-dashboard.html)
 - [Cabinet Watch](cabinet.html)
+- [White House Watch](white-house.html)
 - [Filings Search](filings-search.html)
 - [Reports](reports.html)
 - [SEC Data and Public Filings](sec-data.html)
