@@ -21,9 +21,10 @@ this page shows a rolling thirty one day slice of dated event titles with links,
 small part of their full dataset, which their own terms allow for journalism with
 attribution. We do not republish the dataset in whole or substantial part, and their
 full download is theirs, not ours. The small gold tags on each action are their
-domain labels (for example "Corruption", "Suppressing dissent"), shown under the same
-license and credit. If you reuse this page's content, the same CC BY-SA 4.0 terms
-apply: attribute, and share alike.
+domain labels (for example "Corruption", "Suppressing dissent"), and the plain
+meanings shown on hover are adapted from their glossary, both used under the same
+CC BY-SA 4.0 license with credit. If you reuse this page's content, the same CC
+BY-SA 4.0 terms apply: attribute, and share alike.
 
 ## Read this part first
 
