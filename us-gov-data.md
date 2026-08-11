@@ -94,7 +94,6 @@ Source: [openFDA Terms of Service](https://open.fda.gov/terms/).
 **ClinicalTrials.gov** (trial registrations and status changes) makes its data available
 to all requesters at no charge, and the National Library of Medicine states the general
 rule for its sites:
-
 > Works produced by the U.S. government are not subject to copyright protection in the
 > United States. Any such works found on National Library of Medicine (NLM) Web sites may
 > be freely used or reproduced without permission in the U.S.
@@ -105,6 +104,43 @@ United States, and it licenses that data on conditions (credit, freshness, and n
 any changes), which we follow and describe below.
 
 ![NLM web policies, copyright section](assets/us-gov-nlm-policies.png)
+
+**FRED** (the Federal Reserve Bank of St. Louis data service, used for the Fed's own
+policy rate and weekly jobless claims on the macro dashboard) encourages reuse:
+
+> In general, the Federal Reserve Bank of St. Louis encourages the use of FRED data, and
+> associated materials, to support policymakers, researchers, journalists, teachers,
+> students, businesses, and the general public.
+
+Source: [FRED Legal Notices](https://fred.stlouisfed.org/legal/). FRED sorts its series
+into three tiers. "Public Domain: Citation requested" and "Copyrighted: Citation
+required" series may be republished, including commercially, with attribution; series
+marked "Copyrighted: Pre-approval required" may not be republished at all without the
+owner's permission. We use only series that carry no copyright notice (the Fed funds
+rate, DFF, and initial jobless claims, ICSA), we show the suggested citation on the
+tiles that use them, and we display the notice the API terms require: "This product uses
+the FRED® API but is not endorsed or certified by the Federal Reserve Bank of St. Louis."
+We fetch current values for display and do not maintain a permanent mirror archive of
+FRED content.
+
+**The Office of Government Ethics** (cabinet members' financial disclosures, used by the
+tracker's Cabinet page) works differently from everything else on this page: the law
+restricts how disclosure reports may be used, and carves out journalism by name:
+
+> It shall be unlawful for any person to obtain or use a report- (A) for any unlawful
+> purpose; (B) for any commercial purpose, other than by news and communications media
+> for dissemination to the general public; (C) for determining or establishing the
+> credit rating of any individual; or (D) for use, directly or indirectly, in the
+> solicitation of money for any political, charitable, or other purpose.
+
+Source: [5 U.S.C. § 13107(c)](https://www.govinfo.gov/link/uscode/5/13107?link-type=html),
+the Ethics in Government Act's prohibited-uses clause. So the rule for us is exact: these
+reports may be shown to you only as news for the general public, which is what this
+publication is. We never use them for fundraising, credit, or any paid data product, and
+the Cabinet page exists only as free public journalism. Access is through OGE's
+attestation-gated request system (its Form 201 portal and the Officials' Individual
+Disclosures Collection), and requests are made in the publisher's own name as a news
+requester, as the statute's application procedure requires.
 
 ## The conditions they attach, and what we do about each
 
