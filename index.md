@@ -15,6 +15,8 @@ Ayush Agrawal.
 - [Smart Investors Tracker](tracker.html)
 - [Promoter Buying](promoter-buying.html)
 - [Special Situations](special-situations.html)
+- [Filings Search](filings-search.html)
+- [Reports](reports.html)
 - [SEC Data and Public Filings](sec-data.html)
 - [Distributor Code of Conduct](distributor.html)
 - [Customer Support](support.html)

@@ -10,7 +10,7 @@ title: Promoter Buying
 The Promoter Buying page lists open-market purchases by insiders of S&P 500 companies,
 read from their public regulatory filings. This page explains what is being read, how the
 list is built, and what it cannot tell you. The page itself is
-**[here](https://themicrocapinvestor.github.io/smart-investor-tracker/promoter-buying.html)**,
+**[here](https://tracker.themicrocapminute.in/promoter-buying.html)**,
 free, and updated every morning.
 
 ## Read this part first

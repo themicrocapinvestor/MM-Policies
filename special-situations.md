@@ -11,7 +11,7 @@ The Special Situations page follows corporate events at S&P 500 companies:
 mergers, spin-offs, large stakes filed with intent, self-tender offers, special
 dividends, and changes to the index itself. Everything on it is read from public
 regulatory filings. The page itself is
-**[here](https://themicrocapinvestor.github.io/smart-investor-tracker/special-situations.html)**,
+**[here](https://tracker.themicrocapminute.in/special-situations.html)**,
 free, updated every morning, and holds the last forty five days.
 
 ## Read this part first

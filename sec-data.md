@@ -69,8 +69,11 @@ page states, under *Fair access*:
 
 Our collection follows both. Every request our system makes carries a declared identity
 naming this publication and a contact address, exactly as the SEC's sample headers
-prescribe. The system runs once each morning and makes a few dozen requests in total,
-a small fraction of the permitted rate, and nothing like the botnets the rule is aimed at.
+prescribe. The system runs on a fixed schedule, once each morning after the SEC's filing
+day closes (EDGAR accepts filings until 10:00 pm US Eastern), and makes a few dozen
+requests in total, a small fraction of the permitted rate, and nothing like the botnets
+the rule is aimed at. Our pages state this refresh schedule in their footers, and nothing
+on them updates live within the day.
 
 Nor is the data something we are merely tolerated in taking. The SEC maintains a
 [dedicated programming interface](https://www.sec.gov/search-filings/edgar-application-programming-interfaces)

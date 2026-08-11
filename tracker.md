@@ -220,11 +220,11 @@ reusing what it publishes, and how we follow them, are set out in
 
 **The tracker itself is public, and there are two pages of it.**
 
-**[Smart Investor Tracker](https://themicrocapinvestor.github.io/smart-investor-tracker/)**
+**[Smart Investor Tracker](https://tracker.themicrocapminute.in/)**
 is the running feed. The filings that arrived, read every morning and written out in plain
 English, keeping the last thirty one days.
 
-**[Smart Investor Portfolios](https://themicrocapinvestor.github.io/smart-investor-tracker/portfolios.html)**
+**[Smart Investor Portfolios](https://tracker.themicrocapminute.in/portfolios.html)**
 is the standing picture. What each investor owns from their most recent quarterly report,
 and what it is worth.
 
