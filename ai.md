@@ -5,7 +5,7 @@ title: How We Use AI
 
 # How we use AI
 
-*Last updated: 10 August 2026*
+*Last updated: 11 August 2026*
 
 We use artificial intelligence in producing this publication, and we would rather tell you
 so plainly than let you work it out. This page sets out what it does, what it does not do,
@@ -23,8 +23,8 @@ engineering and research tools: they help build and maintain the software behind
 publication, and they help gather and organise source material.
 
 **Sarvam AI**, an Indian speech company, whose text to speech reads the audio edition
-aloud. The voice on that recording is synthetic. It says so itself, by name, in the first
-minute of every episode and again at the end.
+aloud. The voice on that recording is a synthetic voice named Ritu. It says so itself,
+by name, in the first minute of every episode and again at the end.
 
 If we add another tool, or drop one, this page changes.
 
@@ -62,6 +62,15 @@ published, and none decides what an issue says.**
 
 The audio edition works the same way. Its script is written and edited before recording,
 and the Sarvam voice reads it aloud without changing a word.
+
+## The Classroom
+
+The Classroom at [school.themicrocapminute.in](https://school.themicrocapminute.in/) is a
+free course, and AI does more there than it does in the newsletter. Its chapters carry
+audio narration read by Ritu, the same synthetic Sarvam voice, and every recording says
+so itself. The course also embeds explainer videos from the publisher's YouTube channel:
+their scripts are written with AI help, the narration is Ritu, and the animation is
+programmatic. Every video is reviewed by the publisher before it is published.
 
 ## Who is responsible
 

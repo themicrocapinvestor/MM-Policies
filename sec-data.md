@@ -7,8 +7,9 @@ title: SEC Data and Public Filings
 
 *Last updated: 10 August 2026*
 
-Everything on the Smart Investor Tracker, the Portfolios page, and the Promoter Buying
-page is read from data published by the **United States Securities and Exchange
+Everything on the Smart Investor Tracker's seven pages, the Filing Feed, Portfolios,
+Promoter Buying, Special Situations, IPO Watch, Filings Search, and Reports, is read
+from data published by the **United States Securities and Exchange
 Commission**. This page records what the SEC itself says about reusing that data, quotes
 its own words, links to where they appear, and sets out what we do to stay inside those
 rules. The screenshots below were captured from the SEC's website on 10 August 2026 and
@@ -69,11 +70,11 @@ page states, under *Fair access*:
 
 Our collection follows both. Every request our system makes carries a declared identity
 naming this publication and a contact address, exactly as the SEC's sample headers
-prescribe. The system runs on a fixed schedule, once each morning after the SEC's filing
-day closes (EDGAR accepts filings until 10:00 pm US Eastern), and makes a few dozen
-requests in total, a small fraction of the permitted rate, and nothing like the botnets
-the rule is aimed at. Our pages state this refresh schedule in their footers, and nothing
-on them updates live within the day.
+prescribe. The system runs on a fixed schedule: five fixed jobs every morning between
+07:45 and 08:45 IST, after the SEC's filing day closes (EDGAR accepts filings until
+10:00 pm US Eastern), making a few dozen requests in total, a small fraction of the
+permitted rate, and nothing like the botnets the rule is aimed at. Our pages state this
+refresh schedule in their footers, and they are never updated live within the day.
 
 Nor is the data something we are merely tolerated in taking. The SEC maintains a
 [dedicated programming interface](https://www.sec.gov/search-filings/edgar-application-programming-interfaces)

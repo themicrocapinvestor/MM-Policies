@@ -22,8 +22,12 @@ billing, so that we can find your record.
 ## What we can help with
 
 - Subscribing, unsubscribing, or changing the email address you receive issues at
-- Anything to do with your Substack account or a Stripe payment
+- Anything to do with your Substack account or a payment, whether by Stripe or by Zoho
+  Checkout (including UPI)
 - Issues not arriving, arriving late, or landing in spam
+- Tracker email alerts not arriving, or a tracker payment made but no welcome email
+  within an hour
+- Classroom access, such as an audio chapter or video not playing
 - Billing and refunds for paid subscriptions
 - Correcting a factual or numerical error in a published issue
 - Questions about how the newsletter is produced, what its data sources are, or how a

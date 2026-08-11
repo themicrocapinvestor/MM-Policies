@@ -8,9 +8,10 @@ title: Smart Investors Tracker
 *Last updated: 10 August 2026*
 
 We follow the public regulatory filings of thirty investors. This page names all thirty and
-says why each one is on the list. What we actually read is published as it comes in, on two
-open pages linked at the foot of this page, so that anyone can check our reading against
-the original filings.
+says why each one is on the list. What we actually read is published on seven open pages:
+the Filing Feed, Portfolios, Promoter Buying, Special Situations, IPO Watch, Filings
+Search, and Reports, all linked at the foot of this page, so that anyone can check our
+reading against the original filings.
 
 ## Read this part first
 
@@ -218,7 +219,7 @@ and nothing here is published with its knowledge or approval. The SEC's own rule
 reusing what it publishes, and how we follow them, are set out in
 [SEC Data and Public Filings](sec-data.html).
 
-**The tracker itself is public, and there are two pages of it.**
+**The tracker itself is public, and there are seven pages of it.**
 
 **[Smart Investor Tracker](https://tracker.themicrocapminute.in/)**
 is the running feed. The filings that arrived, read every morning and written out in plain
@@ -228,15 +229,35 @@ English, keeping the last thirty one days.
 is the standing picture. What each investor owns from their most recent quarterly report,
 and what it is worth.
 
+**[Promoter Buying](https://tracker.themicrocapminute.in/promoter-buying.html)**
+is the insider buying list. Open-market purchases of their own company's shares by
+insiders of S&P 500 companies, read from their filings.
+
+**[Special Situations](https://tracker.themicrocapminute.in/special-situations.html)**
+is the corporate events list. Mergers, spin-offs, large stakes filed with intent,
+self-tender offers, special dividends, and changes to the index itself.
+
+**[IPO Watch](https://tracker.themicrocapminute.in/ipo-dashboard.html)**
+follows companies on their way to the market. New and amended IPO filings (S-1, F-1,
+424B4), with a plain-English card for each company where the filing allows it.
+
+**[Filings Search](https://tracker.themicrocapminute.in/search/)**
+is the search page. Search S&P 500 filings by company, form, topic, or words inside the
+filing.
+
+**[Reports](https://tracker.themicrocapminute.in/reports.html)**
+is the reading shelf. Recent annual and quarterly reports and results presentations,
+with key figures pulled from the filings.
+
 **The code behind them is our own and is not published.** What it produces is, which is
-the part that matters to a reader: everything on both pages comes from filings the SEC
-publishes, every entry says which filing it came from, and anyone can pull the same
+the part that matters to a reader: everything on all seven pages comes from filings the
+SEC publishes, every entry says which filing it came from, and anyone can pull the same
 documents from EDGAR and check our reading against the originals rather than take our word
 for it.
 
 ## The email alerts: what is paid and what is not
 
-**The two pages are free and will stay free.** Everything we read, every filing, every
+**All seven pages are free and will stay free.** Everything we read, every filing, every
 portfolio, is on them for anyone, forever.
 
 If you would rather have the week's filings delivered than fetch them, that is the paid

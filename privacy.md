@@ -20,10 +20,11 @@ for, and it is the only one we need.
 
 **A name, if you choose to give one.** It is optional and used only to address you.
 
-**Billing details, if you take a paid subscription.** These are collected and held by
-**Substack** and its payment processor **Stripe**, or, for Smart Investor Tracker alerts,
-by **Zoho Payments**. We never see or store your card
-number, and we have no access to it.
+**Billing details, if you take a paid subscription.** For newsletter subscriptions taken
+on Substack, these are collected and held by **Substack** and its payment processor
+**Stripe**. For newsletter subscriptions paid by UPI, and for Smart Investor Tracker
+alerts, they are processed by **Zoho** (Zoho Payments / Zoho Checkout). We never see or
+store your card number, and we have no access to it.
 
 **Delivery and engagement data**, generated automatically by **Substack**:
 whether an issue was delivered, opened, and which links were clicked. We use this in
@@ -67,9 +68,27 @@ For **Smart Investor Tracker email alerts**, two more processors are involved, b
 Zoho and both hosted in Zoho's Indian data centres:
 
 - **Zoho Campaigns**, which holds the alert subscriber list and sends the alert emails.
-  See [Zoho's Privacy Policy](https://www.zoho.com/privacy.html).
-- **Zoho Payments / Zoho Checkout**, which process payment for the alerts. As with
-  Stripe, we never see or store your card, UPI, or banking details.
+  Like the newsletter platform, it records whether an alert email was opened and which
+  links were clicked. See [Zoho's Privacy Policy](https://www.zoho.com/privacy.html).
+- **Zoho Payments / Zoho Checkout**, which process payment for the alerts and for
+  newsletter subscriptions paid by UPI. As with Stripe, we never see or store your card,
+  UPI, or banking details.
+
+The tracker also publishes a public Atom feed at
+[tracker.themicrocapminute.in/feed.xml](https://tracker.themicrocapminute.in/feed.xml),
+which anyone can read without an account and which carries no personal data.
+
+The tracker's **Filings Search** page sends the words you type to our own search service,
+hosted on **Render**, a US cloud host, which returns matching filings. Queries are
+handled without any account or identity, are not logged with any identity, and are not
+sold or shared. The page also falls back to on-device search, so you can avoid this
+entirely.
+
+The **Classroom** at [school.themicrocapminute.in](https://school.themicrocapminute.in)
+embeds videos from our own YouTube channel in privacy-enhanced mode
+(youtube-nocookie.com), so nothing is sent to Google or YouTube unless you press play.
+Pressing play is subject to [Google's privacy policy](https://policies.google.com/privacy).
+The narrated audio chapters stream from the site itself.
 
 ## Links to other websites
 

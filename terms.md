@@ -114,14 +114,18 @@ any company discussed. None of them endorses or sponsors this publication.
 
 Free subscriptions may be cancelled at any time using the unsubscribe link in any issue.
 
-This publication is hosted on **Substack**, and paid subscriptions are processed by
-**Stripe** on the terms shown at checkout. Your use of those services is also subject to
-their own terms. We never see or hold your card details. You may cancel at any time, and cancellation takes effect at the
+This publication is hosted on **Substack**, and paid subscriptions taken there are
+processed by **Stripe** on the terms shown at checkout. Newsletter subscriptions paid by
+UPI are processed by **Zoho Checkout** instead, and Smart Investor Tracker alerts are
+paid through Zoho's payment services (Zoho Checkout and Zoho Payments), as set out below.
+Your use of those services is also subject to their own terms. We never see or hold your
+card or UPI details. You may cancel at any time, and cancellation takes effect at the
 end of the current billing period. Cancellations and refunds are governed by our
 [Cancellation and Refund Policy](refunds.html).
 
 We may change subscription pricing on notice, which will not affect a period you have
-already paid for.
+already paid for. Promotional discounts and coupon codes apply at checkout, are
+time-limited, and any refund is always computed on the amount actually paid.
 
 **Smart Investor Tracker email alerts are sold separately**, through Zoho's payment
 services (Zoho Checkout and Zoho Payments). A payment of Rs. 199 covers 365 days of

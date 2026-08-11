@@ -135,3 +135,8 @@ intelligence is used in producing the publication is set out separately in
 Read the newsletter at
 [themicrocapminute.in](https://www.themicrocapminute.in/), or write to
 [hello@themicrocapminute.in](mailto:hello@themicrocapminute.in).
+
+The publisher also runs the [Smart Investor
+Tracker](https://tracker.themicrocapminute.in/), free pages of market data plus a paid
+email alert, and the [Classroom](https://school.themicrocapminute.in/), a free written
+course with narrated audio chapters.

@@ -46,6 +46,9 @@ badly treated.
 - Your subscription renewed after you had already cancelled
 - We stop publishing during a period you have paid for
 
+A promotional discount or coupon code does not change refund eligibility. Refunds are
+always of the amount actually paid.
+
 ## Renewals
 
 Paid subscriptions renew automatically until cancelled. Substack emails you before an
@@ -83,8 +86,10 @@ cancel before it takes effect.
 Email **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)** from the
 address you subscribed with, or tell us which address it was.
 
-We reply within **three working days**. Approved refunds are issued through Stripe to the original
-payment method, and how quickly the money appears is down to your bank or card issuer,
+We reply within **three working days**. Approved refunds are issued to the original
+payment method, through the same rail the payment came in on: **Stripe** for Substack
+payments and **Zoho** for payments made through Zoho Checkout or Zoho Payments, including
+UPI. How quickly the money appears is down to your bank or card issuer,
 typically **5 to 10 working days**. We cannot speed that part up.
 
 ## What we do not refund

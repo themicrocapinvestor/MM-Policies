@@ -66,14 +66,18 @@ on the page is contacted or aware of its inclusion.
 
 The inside-text search deserves its own explanation. Each morning the system
 also reads the text of that window's 8-K filings, press-release exhibits
-included, breaks every document into words, and publishes one word-to-filing
-index alongside the page. A reader's browser downloads that index a single
-time and the search then runs entirely on the reader's own device: searches
-never touch SEC servers, and the index contains no opinions, only words and
-the filings they appeared in. The annual and quarterly reports are huge
-reference documents and are linked for reading, not searched. The shortcut to
-the SEC's own full-text search is different in kind: it opens sec.gov in a new
-tab like any normal visit, and it covers every US filer, not just the S&P 500.
+included, breaks every document into words, and builds one word-to-filing
+index alongside the page. When a reader searches, the page first asks our own
+hosted search service, which keeps a copy of that filings text database on our
+own server (sit-filing-search.onrender.com) and answers from it; this has
+nothing to do with SEC servers. If that service cannot be reached, the page
+falls back to downloading the static index a single time and running the
+search on the reader's own device. Either way, a reader's searches never touch
+SEC servers, and the index contains no opinions, only words and the filings
+they appeared in. The annual and quarterly reports are huge reference
+documents and are linked for reading, not searched. The shortcut to the SEC's
+own full-text search is different in kind: it opens sec.gov in a new tab like
+any normal visit, and it covers every US filer, not just the S&P 500.
 
 ## Sources
 
