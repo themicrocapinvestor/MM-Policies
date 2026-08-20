@@ -127,10 +127,14 @@ We may change subscription pricing on notice, which will not affect a period you
 already paid for. Promotional discounts and coupon codes apply at checkout, are
 time-limited, and any refund is always computed on the amount actually paid.
 
-**Smart Investor Tracker email alerts are sold separately**, through Zoho's payment
-services (Zoho Checkout and Zoho Payments). A payment of Rs. 199 covers 365 days of
-alerts, is taken **once**, and does not renew automatically; when the year ends the alerts
-simply stop until you pay again. Your use of Zoho's services is subject to their terms,
+**Smart Investor Tracker email alerts are closed to new subscribers** as of 20 August
+2026. They are no longer sold anywhere on our sites. If you are already paying for a
+year, nothing changes: your alerts continue for the full 365 days you paid for, and the
+terms below still govern them.
+
+They were sold separately, through Zoho's payment services (Zoho Checkout and Zoho
+Payments). A payment of Rs. 199 covers 365 days of alerts, was taken **once**, and does
+not renew automatically; when your year ends the alerts simply stop. Your use of Zoho's services is subject to their terms,
 and we never see or hold your card, UPI, or banking details. Cancellations and refunds
 for alert payments follow the same [Cancellation and Refund Policy](refunds.html), issued
 through Zoho to the original payment method.

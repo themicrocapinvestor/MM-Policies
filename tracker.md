@@ -260,13 +260,15 @@ for it.
 **All seven pages are free and will stay free.** Everything we read, every filing, every
 portfolio, is on them for anyone, forever.
 
-If you would rather have the week's filings delivered than fetch them, that is the paid
-part. **Smart Investor Tracker alerts** are one email each Monday holding every filing the
-thirty made that week and the week's S&P 500 promoter buying, in the same plain English
-as the pages, for **Rs. 199 for a year**.
-Payment is taken once, through Zoho (UPI, cards, net banking), covers 365 days, and
-**does not renew by itself**. New subscribers receive the current week's edition
-immediately after their payment is confirmed, then every Monday.
+**Smart Investor Tracker alerts are closed to new subscribers** as of 20 August 2026.
+They were one email each Monday holding every filing the thirty made that week and the
+week's S&P 500 promoter buying, in the same plain English as the pages, for Rs. 199 for a
+year. We no longer sell them.
+
+If you are already paying for a year, nothing changes: your Monday email keeps arriving
+for the full 365 days you paid for. Payment was taken once, through Zoho, covered 365
+days, and **does not renew by itself**, so when your year ends the alerts simply stop and
+nothing further is charged.
 
 **The data in the emails is the same data that is on the free pages.** You are paying for
 delivery, not for access to anything hidden. Cancellations and refunds follow our
