@@ -128,7 +128,7 @@ There is no subscription pricing to change.
 
 **Smart Investor Tracker email alerts are closed to new subscribers** as of 20 August
 2026. They are no longer sold anywhere on our sites. If you are already paying for a
-year, nothing changes: your alerts continue for the full 365 days you paid for, and the
+year, nothing changes: your alerts continue for the full 365 days covered by it, and the
 terms below still govern them.
 
 They were sold separately, through Zoho's payment services (Zoho Checkout and Zoho
@@ -156,8 +156,8 @@ change, or discontinue the newsletter at any time.
 
 To the maximum extent permitted by law, the publisher disclaims all liability for any
 direct or indirect loss arising from use of, or reliance on, anything published. Where
-liability cannot be excluded, it is limited to the amount you paid in the twelve months
-before the claim.
+liability cannot be excluded, it is limited to the total amount of any support you have
+given us.
 
 Nothing here excludes liability for fraud, or for anything else that cannot lawfully be
 excluded.

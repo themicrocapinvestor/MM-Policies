@@ -160,7 +160,7 @@ plainly about his own mistakes, which very few people in this industry do.
 past thirty years, with very little noise attached to it.
 
 **23. Francois Rochon, Giverny Capital.** He publishes an annual list of his own worst
-decisions of the year. That single habit makes his letters more useful than most paid
+decisions of the year. That single habit makes his letters more useful than most professional
 research.
 
 **24. Mason Hawkins, Longleaf Partners.** A value process held to through several complete
@@ -266,7 +266,7 @@ week's S&P 500 promoter buying, in the same plain English as the pages, for Rs. 
 year. We no longer sell them.
 
 If you are already paying for a year, nothing changes: your Monday email keeps arriving
-for the full 365 days you paid for. Payment was taken once, through Zoho, covered 365
+for the full 365 days covered by it. Payment was taken once, through Zoho, covered 365
 days, and **does not renew by itself**, so when your year ends the alerts simply stop and
 nothing further is charged.
 

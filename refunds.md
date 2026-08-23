@@ -31,19 +31,19 @@ After 7 days, tell us what happened; we handle refunds case by case and lean tow
 granting them. Refunds are issued through Buy Me a Coffee to the original payment
 method.
 
-## Legacy: Smart Investor Tracker email alerts (paid through Zoho)
+## Legacy: Smart Investor Tracker email alerts (sold through Zoho)
 
 Tracker email alerts are **closed to new subscribers** as of 20 August 2026. Existing
-subscribers keep receiving them for the full 365 days they paid for.
+subscribers keep receiving them for the full 365 days covered by it.
 
-They were paid for **once, not on a renewal**, through Zoho's payment services (Zoho
+They were sold **once, not on a renewal**, through Zoho's payment services (Zoho
 Checkout and Zoho Payments). When your year ends the alerts simply stop. For these
 legacy payments:
 
 - **Within 7 days of payment, we refund in full on request**, no reason needed
 - **After 7 days**, tell us what happened; we handle it case by case and lean toward
   granting refunds
-- If we stop sending the alerts during a year you have paid for, **we refund the unused
+- If we stop sending the alerts during a year covered by your payment, **we refund the unused
   part in full, without being asked**
 - The data in the alerts is the same data shown free on the tracker pages, so we do not
   refund on the basis that the information was available free; that is stated before you
@@ -56,7 +56,7 @@ typically 5 to 10 working days depending on your bank.
 
 - We charged you in error, or charged you twice
 - A charge renewed after you had already cancelled
-- We stop publishing during a period you have paid for
+- We stop publishing during a period covered by your payment
 
 ## How to ask
 
