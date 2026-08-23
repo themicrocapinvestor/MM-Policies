@@ -5,7 +5,7 @@ title: Terms of Service
 
 # Terms of Service
 
-*Last updated: 10 August 2026*
+*Last updated: 23 August 2026*
 
 These terms govern your use of **The Microcap Minute** and **The Microcap Minute
 Global**, published by Ayush Agrawal ("we", "us"). By subscribing to or reading an issue,
@@ -110,22 +110,21 @@ arrangements disclosed in each issue, we have no corporate relationship with
 StockCharts.com, RRG Research, or StockAnalysis.com, and no relationship of any kind with
 any company discussed. None of them endorses or sponsors this publication.
 
-## 7. Subscriptions and payment
+## 7. Support and payment
 
-Free subscriptions may be cancelled at any time using the unsubscribe link in any issue.
+You can unsubscribe at any time using the link in any issue. Nothing to cancel and
+nothing to pay.
 
-This publication is hosted on **Substack**, and paid subscriptions taken there are
-processed by **Stripe** on the terms shown at checkout. Newsletter subscriptions paid by
-UPI are processed by **Zoho Checkout** instead, and Smart Investor Tracker alerts are
-paid through Zoho's payment services (Zoho Checkout and Zoho Payments), as set out below.
-Your use of those services is also subject to their own terms. We never see or hold your
-card or UPI details. You may cancel at any time, and cancellation takes effect at the
-end of the current billing period. Cancellations and refunds are governed by our
+**Support is voluntary.** Every edition is free for every reader, whether or not they
+support the work. If the work has been worth something to you, you can buy a coffee at
+**[buymeacoffee.com/imicrocap](https://buymeacoffee.com/imicrocap)** — once, or
+whenever you like. It is not a subscription, it does not unlock additional content,
+and there is nothing to cancel. Payments are processed by Buy Me a Coffee on its own
+terms, and your use of that service is also subject to its terms. We never see or hold
+your card details. Cancellations and refunds are governed by our
 [Cancellation and Refund Policy](refunds.html).
 
-We may change subscription pricing on notice, which will not affect a period you have
-already paid for. Promotional discounts and coupon codes apply at checkout, are
-time-limited, and any refund is always computed on the amount actually paid.
+There is no subscription pricing to change.
 
 **Smart Investor Tracker email alerts are closed to new subscribers** as of 20 August
 2026. They are no longer sold anywhere on our sites. If you are already paying for a
@@ -134,19 +133,19 @@ terms below still govern them.
 
 They were sold separately, through Zoho's payment services (Zoho Checkout and Zoho
 Payments). A payment of Rs. 199 covers 365 days of alerts, was taken **once**, and does
-not renew automatically; when your year ends the alerts simply stop. Your use of Zoho's services is subject to their terms,
-and we never see or hold your card, UPI, or banking details. Cancellations and refunds
-for alert payments follow the same [Cancellation and Refund Policy](refunds.html), issued
-through Zoho to the original payment method.
+not renew automatically; when your year ends the alerts simply stop. Your use of Zoho's
+services is subject to their terms, and we never see or hold your card, UPI, or banking
+details. Cancellations and refunds for alert payments follow the same
+[Cancellation and Refund Policy](refunds.html), issued through Zoho to the original
+payment method.
 
 ## 8. Your responsibilities
 
-Do not share paid content with people who have not paid for it. Do not attempt to
-scrape, bulk-download, or automate access. Do not represent yourself as connected with
-this publication.
+Do not attempt to scrape, bulk-download, or automate access. Do not represent yourself
+as connected with this publication.
 
-We may end a subscription, with a refund of any unused portion, if these terms are
-breached.
+We may end your access to the newsletter if these terms are breached. Legacy Tracker
+alert subscribers whose access is ended receive a refund of any unused portion.
 
 ## 9. Availability
 

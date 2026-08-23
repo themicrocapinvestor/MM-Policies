@@ -5,7 +5,7 @@ title: Customer Support
 
 # Customer Support
 
-*Last updated: 8 August 2026*
+*Last updated: 23 August 2026*
 
 **The Microcap Minute** and **The Microcap Minute Global** are published by Ayush Agrawal.
 
@@ -22,13 +22,13 @@ billing, so that we can find your record.
 ## What we can help with
 
 - Subscribing, unsubscribing, or changing the email address you receive issues at
-- Anything to do with your Substack account or a payment, whether by Stripe or by Zoho
-  Checkout (including UPI)
+- Anything to do with your Substack account or a payment — a coffee through Buy Me a
+  Coffee, or a legacy Tracker alert payment through Zoho
 - Issues not arriving, arriving late, or landing in spam
 - Tracker email alerts not arriving, or a tracker payment made but no welcome email
   within an hour
 - Classroom access, such as an audio chapter or video not playing
-- Billing and refunds for paid subscriptions
+- Billing and refunds for coffee payments and legacy Tracker alerts
 - Correcting a factual or numerical error in a published issue
 - Questions about how the newsletter is produced, what its data sources are, or how a
   company came to be selected

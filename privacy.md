@@ -20,11 +20,10 @@ for, and it is the only one we need.
 
 **A name, if you choose to give one.** It is optional and used only to address you.
 
-**Billing details, if you take a paid subscription.** For newsletter subscriptions taken
-on Substack, these are collected and held by **Substack** and its payment processor
-**Stripe**. For newsletter subscriptions paid by UPI, and for Smart Investor Tracker
-alerts, they are processed by **Zoho** (Zoho Payments / Zoho Checkout). We never see or
-store your card number, and we have no access to it.
+**Billing details, if you choose to support the letter.** Coffee payments are collected
+and held by **Buy Me a Coffee** and its payment processor **Stripe**. For the legacy
+Smart Investor Tracker email alerts, they are processed by **Zoho** (Zoho Payments /
+Zoho Checkout). We never see or store your card number, and we have no access to it.
 
 **Delivery and engagement data**, generated automatically by **Substack**:
 whether an issue was delivered, opened, and which links were clicked. We use this in
@@ -44,8 +43,8 @@ portfolio, or any other financial information. Please do not send it.
 
 ## Why we hold it
 
-To send you the newsletter you asked for, to take payment if you subscribe to a paid
-tier, to answer your emails, and to keep records we are required to keep. That is all.
+To send you the newsletter you asked for, to take payment if you choose to buy a
+coffee, to answer your emails, and to keep records we are required to keep. That is all.
 
 ## Who else is involved
 
@@ -54,9 +53,13 @@ Running a newsletter means using other companies, and they process data on our b
 - **Substack Inc.**, which hosts the publication, stores the subscriber list, sends every
   issue, and records delivery and open data. See Substack's own
   [Privacy Policy](https://substack.com/privacy).
-- **Stripe, Inc.**, which processes payments for paid subscriptions and holds the card
-  and billing details we never see. See
+- **Stripe, Inc.**, which processes payments for Buy Me a Coffee and holds the card and
+  billing details we never see. See
   [Stripe's Privacy Policy](https://stripe.com/privacy).
+- **Buy Me a Coffee**, which runs the support page at
+  [buymeacoffee.com/imicrocap](https://buymeacoffee.com/imicrocap) and handles the
+  coffee checkout. See
+  [Buy Me a Coffee's Privacy Policy](https://www.buymeacoffee.com/privacy).
 - **Zoho Corporation**, which provides the mailbox behind our support address (Zoho
   Mail), hosted in its Indian data centres, for any message you send us directly. See
   [Zoho's Privacy Policy](https://www.zoho.com/privacy.html).
@@ -70,9 +73,9 @@ Zoho and both hosted in Zoho's Indian data centres:
 - **Zoho Campaigns**, which holds the alert subscriber list and sends the alert emails.
   Like the newsletter platform, it records whether an alert email was opened and which
   links were clicked. See [Zoho's Privacy Policy](https://www.zoho.com/privacy.html).
-- **Zoho Payments / Zoho Checkout**, which process payment for the alerts and for
-  newsletter subscriptions paid by UPI. As with Stripe, we never see or store your card,
-  UPI, or banking details.
+- **Zoho Payments / Zoho Checkout**, which process payment for the legacy Smart Investor
+  Tracker email alerts. As with Stripe, we never see or store your card, UPI, or banking
+  details.
 
 The tracker also publishes a public Atom feed at
 [tracker.themicrocapminute.in/feed.xml](https://tracker.themicrocapminute.in/feed.xml),
@@ -106,7 +109,8 @@ have no control over and no visibility into that.
 The newsletter itself is delivered by email and sets no cookies on your device.
 Substack's website sets its own cookies when you visit it, governed by
 [Substack's cookie and privacy policy](https://substack.com/privacy), not by this one.
-Stripe sets cookies during checkout for fraud prevention.
+Buy Me a Coffee's checkout (processed by Stripe) sets its own cookies during payment,
+governed by their policies.
 
 The Smart Investor Tracker pages set no cookies either. They store a single dismissal
 flag in your browser's local storage so a popup you have closed does not reappear, and
@@ -153,15 +157,15 @@ record.
 
 We keep the subscriber list inside Substack rather than in spreadsheets or local files,
 and we use two-factor authentication on the accounts that can reach it. Card details are
-held by Stripe, a PCI-DSS Level 1 certified processor, and never touch our systems. No
-system is perfectly secure, and we will not pretend otherwise. If a breach occurs that
-affects you, we will tell you.
+held by Buy Me a Coffee's processor (Stripe), a PCI-DSS Level 1 certified processor, and
+never touch our systems. No system is perfectly secure, and we will not pretend
+otherwise. If a breach occurs that affects you, we will tell you.
 
 ## Where your data goes
 
-**Substack Inc. and Stripe, Inc. are United States companies**, so your email address and,
-for paid subscribers, your billing details are stored and processed in the United States,
-whatever country you read from.
+**Substack Inc., Stripe, Inc. and Buy Me a Coffee are United States companies**, so your
+email address and, for supporters, your billing details are stored and processed in the
+United States, whatever country you read from.
 
 ## Changes
 
