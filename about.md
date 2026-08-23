@@ -137,6 +137,6 @@ Read the newsletter at
 [hello@themicrocapminute.in](mailto:hello@themicrocapminute.in).
 
 The publisher also runs the [Smart Investor
-Tracker](https://tracker.themicrocapminute.in/), free pages of market data plus a paid
-email alert, and the [Classroom](https://school.themicrocapminute.in/), a free written
-course with narrated audio chapters.
+Tracker](https://tracker.themicrocapminute.in/), free pages of market data (its email
+alert is closed to new subscribers), and the [Classroom](https://school.themicrocapminute.in/),
+a free written course with narrated audio chapters.

@@ -255,7 +255,7 @@ SEC publishes, every entry says which filing it came from, and anyone can pull t
 documents from EDGAR and check our reading against the originals rather than take our word
 for it.
 
-## The email alerts: what is paid and what is not
+## The email alerts (closed to new subscribers)
 
 **All seven pages are free and will stay free.** Everything we read, every filing, every
 portfolio, is on them for anyone, forever.
@@ -270,9 +270,9 @@ for the full 365 days you paid for. Payment was taken once, through Zoho, covere
 days, and **does not renew by itself**, so when your year ends the alerts simply stop and
 nothing further is charged.
 
-**The data in the emails is the same data that is on the free pages.** You are paying for
+**The data in the emails was the same data that is on the free pages.** The payment was for
 delivery, not for access to anything hidden. Cancellations and refunds follow our
-[Cancellation and Refund Policy](refunds.html), the same as everything else we sell.
+[Cancellation and Refund Policy](refunds.html).
 
 ## And the usual, because it applies here too
 
