@@ -5,14 +5,16 @@ title: Terms of Service
 
 # Terms of Service
 
-*Last updated: 23 August 2026*
+*Last updated: 24 August 2026*
 
 These terms govern your use of **The Microcap Minute** and **The Microcap Minute
 Global**, published by Ayush Agrawal ("we", "us"). By subscribing to or reading an issue,
-you accept them. Our paid course, **Master AI Automation in 4 hours**, is sold through
-Udemy: purchases, accounts and refunds for the course are governed by Udemy's own terms
-(see [AI Course Policy](ai-course.html)), and the terms below govern everything else,
-alongside the course's content rules.
+you accept them. Our paid course, **Master AI Automation in 4 hours**, is sold through Udemy
+and directly on ai.themicrocapminute.in. Udemy purchases, accounts and refunds are
+governed by Udemy's own terms. Direct purchases are governed by these Terms and our
+[Cancellation and Refund Policy](refunds.html); for those sales The Microcap Minute
+(Ayush Agrawal) is the merchant of record, and Zoho Payments and Instamojo act only
+as payment processors. See the [AI Course Policy](ai-course.html).
 
 Contact: **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 

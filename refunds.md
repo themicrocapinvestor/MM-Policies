@@ -5,12 +5,12 @@ title: Cancellation and Refund Policy
 
 # Cancellation and Refund Policy
 
-*Last updated: 23 August 2026*
+*Last updated: 24 August 2026*
 
 This policy covers cancellations and refunds for support given to **The Microcap
 Minute** and **The Microcap Minute Global**, for the legacy **Smart Investor Tracker
-email alerts**, and for the paid **AI course** (which is sold through Udemy; see the
-section below).
+email alerts**, and for the paid **AI course** (sold on Udemy and directly on
+ai.themicrocapminute.in; see the sections below).
 
 Contact: **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 
@@ -20,14 +20,30 @@ Every edition is free for every reader. There is no paywall and no subscription,
 there is nothing to cancel. Every issue carries a one-click unsubscribe link that works
 immediately.
 
-## The AI course (sold through Udemy)
+## The AI course (sold on Udemy)
 
-Our paid course, **Master AI Automation in 4 hours**, is sold only on Udemy at a
-launch price of Rs 999. **Udemy is the merchant of record**: it takes the payment,
-holds the account, and issues refunds under its own 30-day refund policy. We never
-see or hold your money for this course, so we cannot cancel or refund it directly.
-Start with Udemy support for anything billing-related; if a refund case stalls,
-write to us and we will help you make it.
+On Udemy, **Udemy is the merchant of record**: it takes the payment, holds the
+account, and issues refunds under its own 30-day refund policy. We never see or
+hold your money for Udemy purchases, so we cannot cancel or refund them
+directly. Start with Udemy support for anything billing-related; if a refund
+case stalls, write to us and we will help you make it.
+
+## The AI course (sold directly on ai.themicrocapminute.in)
+
+When you buy the course directly on ai.themicrocapminute.in, **The Microcap
+Minute (Ayush Agrawal) is the merchant of record**. The payment is processed by
+**Zoho Payments** (UPI) or **Instamojo** (cards), and we receive the money minus
+their processing fees.
+
+- **Within 7 days of payment, we refund in full on request**, no reason needed.
+- **After 7 days**, tell us what happened; we handle refunds case by case and
+  lean toward granting them.
+- Refunds are issued to the original payment method and may take 5-7 business
+  days to appear.
+
+Refund requests: write to
+**[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)** with the
+email you used at checkout.
 
 Everything else we publish stays free, and the free products below are unaffected.
 

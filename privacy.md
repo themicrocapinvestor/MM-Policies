@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-*Last updated: 10 August 2026*
+*Last updated: 24 August 2026*
 
 This policy explains what personal data **The Microcap Minute** and **The Microcap
 Minute Global** collect, why, and what you can do about it. The publisher is Ayush
@@ -16,10 +16,17 @@ Contact: **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 ## What we collect
 
 **Your email address**, when you subscribe. This is the only piece of information we ask
-for, and it is the only one we need. If you buy our paid AI course, the purchase happens
-on Udemy: your payment and account data are handled by Udemy under its own privacy
-policy, and we receive only what Udemy shares with instructors, such as your course
-enrolment.
+for, and it is the only one we need. If you buy our paid AI course on Udemy, the purchase
+happens on Udemy: your payment and account data are handled by Udemy under its own
+privacy policy, and we receive only what Udemy shares with instructors, such as your
+course enrolment.
+
+**If you buy the course directly on ai.themicrocapminute.in**, we collect your name,
+email address, phone number, city and state to create your account and deliver the
+course. Your payment is processed by **Zoho Payments** (UPI) or **Instamojo**
+(cards); we never see or store your card number or UPI details, and we have no
+access to them. See their respective privacy policies for how they handle payment
+data.
 
 **A name, if you choose to give one.** It is optional and used only to address you.
 

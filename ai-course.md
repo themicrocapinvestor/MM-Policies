@@ -19,16 +19,27 @@ exercises.
 
 ## Price and where it is sold
 
-The course is sold on **Udemy** at a launch price of **Rs 999**. It is the only
-paid product we make. Everything else we publish, the newsletter, the Classroom,
-the tracker pages, remains free.
+The course is sold at a launch price of **Rs 999** in two places:
 
-**Udemy is the merchant of record.** Udemy processes the payment, holds your
-account, provides the certificate, and handles refunds under its own 30-day
-refund policy, which you can read on Udemy before you buy. We cannot issue
-refunds directly, because we never touch your money. If something is wrong with
-a payment or a refund, start with Udemy support; we will help you make that
-case if it stalls.
+- **Udemy**, where **Udemy is the merchant of record**: it processes the
+  payment, holds your account, provides the certificate, and handles refunds
+  under its own 30-day refund policy, which you can read on Udemy before you
+  buy.
+- **Directly on ai.themicrocapminute.in**, where **The Microcap Minute (Ayush
+  Agrawal) is the merchant of record**. Direct payments are processed by
+  **Zoho Payments** (UPI) and **Instamojo** (cards); we never see or store your
+  card or UPI details. Direct sales are governed by our
+  [Cancellation and Refund Policy](refunds.html) and
+  [Terms of Service](terms.html).
+
+Everything else we publish — the newsletter, the Classroom, the tracker
+pages — remains free.
+
+For direct purchases, certificates are issued by us on course completion. For
+billing or refund questions on direct purchases, write to
+**[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**. For Udemy
+purchases, start with Udemy support; we will help you make the case if it
+stalls.
 
 ## How the course is made
 
