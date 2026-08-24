@@ -16,7 +16,10 @@ Contact: **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 ## What we collect
 
 **Your email address**, when you subscribe. This is the only piece of information we ask
-for, and it is the only one we need.
+for, and it is the only one we need. If you buy our paid AI course, the purchase happens
+on Udemy: your payment and account data are handled by Udemy under its own privacy
+policy, and we receive only what Udemy shares with instructors, such as your course
+enrolment.
 
 **A name, if you choose to give one.** It is optional and used only to address you.
 

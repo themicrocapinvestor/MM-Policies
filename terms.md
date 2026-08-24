@@ -9,7 +9,10 @@ title: Terms of Service
 
 These terms govern your use of **The Microcap Minute** and **The Microcap Minute
 Global**, published by Ayush Agrawal ("we", "us"). By subscribing to or reading an issue,
-you accept them.
+you accept them. Our paid course, **Master AI Automation in 4 hours**, is sold through
+Udemy: purchases, accounts and refunds for the course are governed by Udemy's own terms
+(see [AI Course Policy](ai-course.html)), and the terms below govern everything else,
+alongside the course's content rules.
 
 Contact: **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 

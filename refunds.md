@@ -8,8 +8,9 @@ title: Cancellation and Refund Policy
 *Last updated: 23 August 2026*
 
 This policy covers cancellations and refunds for support given to **The Microcap
-Minute** and **The Microcap Minute Global**, and for the legacy **Smart Investor Tracker
-email alerts**.
+Minute** and **The Microcap Minute Global**, for the legacy **Smart Investor Tracker
+email alerts**, and for the paid **AI course** (which is sold through Udemy; see the
+section below).
 
 Contact: **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 
@@ -18,6 +19,17 @@ Contact: **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 Every edition is free for every reader. There is no paywall and no subscription, so
 there is nothing to cancel. Every issue carries a one-click unsubscribe link that works
 immediately.
+
+## The AI course (sold through Udemy)
+
+Our paid course, **Master AI Automation in 4 hours**, is sold only on Udemy at a
+launch price of Rs 999. **Udemy is the merchant of record**: it takes the payment,
+holds the account, and issues refunds under its own 30-day refund policy. We never
+see or hold your money for this course, so we cannot cancel or refund it directly.
+Start with Udemy support for anything billing-related; if a refund case stalls,
+write to us and we will help you make it.
+
+Everything else we publish stays free, and the free products below are unaffected.
 
 ## Supporting the letter (Buy Me a Coffee)
 

@@ -72,6 +72,16 @@ so itself. The course also embeds explainer videos from the publisher's YouTube 
 their scripts are written with AI help, the narration is Ritu, and the animation is
 programmatic. Every video is reviewed by the publisher before it is published.
 
+## The paid AI course
+
+Our paid course, **Master AI Automation in 4 hours** (sold on Udemy), is produced
+the same way as the Classroom, with one difference of degree: the videos are
+generated from chapter scripts with AI assistance, narrated by Shreya, a synthetic
+Sarvam voice, and animated programmatically with Manim. Every chapter is reviewed
+and approved by the publisher before it ships, and the exercise sheets are written
+and edited by hand. The course policy page at [AI Course Policy](ai-course.html)
+carries the details.
+
 ## Who is responsible
 
 **Ayush Agrawal, the author and publisher.** Every issue is his, and every error in one is

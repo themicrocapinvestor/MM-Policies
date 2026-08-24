@@ -139,4 +139,6 @@ Read the newsletter at
 The publisher also runs the [Smart Investor
 Tracker](https://tracker.themicrocapminute.in/), free pages of market data (its email
 alert is closed to new subscribers), and the [Classroom](https://school.themicrocapminute.in/),
-a free written course with narrated audio chapters.
+a free written course with narrated audio chapters, and a paid AI course,
+**Master AI Automation in 4 hours** (sold on Udemy), which is our only paid
+product. Everything else stays free.
