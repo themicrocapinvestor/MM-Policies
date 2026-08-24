@@ -13,8 +13,8 @@ you accept them. Our paid course, **Master AI Automation in 4 hours**, is sold t
 and directly on ai.themicrocapminute.in. Udemy purchases, accounts and refunds are
 governed by Udemy's own terms. Direct purchases are governed by these Terms and our
 [Cancellation and Refund Policy](refunds.html); for those sales The Microcap Minute
-(Ayush Agrawal) is the merchant of record, and Zoho Payments and Instamojo act only
-as payment processors. See the [AI Course Policy](ai-course.html).
+(Ayush Agrawal) is the merchant of record, and Zoho Checkout acts only as the
+payment processor. See the [AI Course Policy](ai-course.html).
 
 Contact: **[hello@themicrocapminute.in](mailto:hello@themicrocapminute.in)**
 

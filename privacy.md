@@ -21,12 +21,17 @@ happens on Udemy: your payment and account data are handled by Udemy under its o
 privacy policy, and we receive only what Udemy shares with instructors, such as your
 course enrolment.
 
-**If you buy the course directly on ai.themicrocapminute.in**, we collect your name,
-email address, phone number, city and state to create your account and deliver the
-course. Your payment is processed by **Zoho Payments** (UPI) or **Instamojo**
-(cards); we never see or store your card number or UPI details, and we have no
-access to them. See their respective privacy policies for how they handle payment
-data.
+**If you buy the course directly on ai.themicrocapminute.in**, we collect:
+
+- your name, email address, phone number, city and state, to create your account
+  and deliver the course
+- your course progress — which lessons you have completed and when
+- the name and date shown on your completion certificate
+
+Your payment is processed by **Zoho Checkout** (cards, net banking and UPI). We
+never see or store your card number, UPI ID or banking credentials, and we have no
+access to them. See [Zoho's Privacy Policy](https://www.zoho.com/privacy.html) for
+how Zoho Checkout handles payment data.
 
 **A name, if you choose to give one.** It is optional and used only to address you.
 
@@ -72,6 +77,10 @@ Running a newsletter means using other companies, and they process data on our b
   [Buy Me a Coffee's Privacy Policy](https://www.buymeacoffee.com/privacy).
 - **Zoho Corporation**, which provides the mailbox behind our support address (Zoho
   Mail), hosted in its Indian data centres, for any message you send us directly. See
+  [Zoho's Privacy Policy](https://www.zoho.com/privacy.html).
+- **Zoho Checkout** (Zoho Corporation), which processes payments for the AI course
+  sold directly on ai.themicrocapminute.in. It collects the card, UPI and net banking
+  details we never see, from Zoho's Indian data centres. See
   [Zoho's Privacy Policy](https://www.zoho.com/privacy.html).
 
 Each of these has its own privacy policy governing what it does with data. We choose
@@ -125,7 +134,8 @@ governed by their policies.
 The Smart Investor Tracker pages set no cookies either. They store a single dismissal
 flag in your browser's local storage so a popup you have closed does not reappear, and
 that flag never leaves your device. Zoho's checkout sets its own cookies during payment,
-governed by Zoho's policy.
+governed by Zoho's policy. The AI course checkout on ai.themicrocapminute.in is hosted by
+Zoho Checkout and sets its own cookies during payment, also governed by Zoho's policy.
 
 ## How long we keep things
 
@@ -168,14 +178,17 @@ record.
 We keep the subscriber list inside Substack rather than in spreadsheets or local files,
 and we use two-factor authentication on the accounts that can reach it. Card details are
 held by Buy Me a Coffee's processor (Stripe), a PCI-DSS Level 1 certified processor, and
-never touch our systems. No system is perfectly secure, and we will not pretend
+never touch our systems. For the AI course sold directly, card, UPI and net banking
+details are held by Zoho Checkout and never touch our systems either. No system is perfectly secure, and we will not pretend
 otherwise. If a breach occurs that affects you, we will tell you.
 
 ## Where your data goes
 
 **Substack Inc., Stripe, Inc. and Buy Me a Coffee are United States companies**, so your
 email address and, for supporters, your billing details are stored and processed in the
-United States, whatever country you read from.
+United States, whatever country you read from. The AI course platform at
+ai.themicrocapminute.in is hosted by Hostinger, and course payments are processed by
+Zoho Checkout from Zoho's Indian data centres.
 
 ## Changes
 

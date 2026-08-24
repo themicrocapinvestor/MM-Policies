@@ -27,8 +27,8 @@ The course is sold at a launch price of **Rs 999** in two places:
   buy.
 - **Directly on ai.themicrocapminute.in**, where **The Microcap Minute (Ayush
   Agrawal) is the merchant of record**. Direct payments are processed by
-  **Zoho Payments** (UPI) and **Instamojo** (cards); we never see or store your
-  card or UPI details. Direct sales are governed by our
+  **Zoho Checkout** (cards, net banking and UPI); we never see or store your
+  card, UPI or banking details. Direct sales are governed by our
   [Cancellation and Refund Policy](refunds.html) and
   [Terms of Service](terms.html).
 

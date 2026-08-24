@@ -32,7 +32,7 @@ case stalls, write to us and we will help you make it.
 
 When you buy the course directly on ai.themicrocapminute.in, **The Microcap
 Minute (Ayush Agrawal) is the merchant of record**. The payment is processed by
-**Zoho Payments** (UPI) or **Instamojo** (cards), and we receive the money minus
+**Zoho Checkout** (cards, net banking and UPI), and we receive the money minus
 their processing fees.
 
 - **Within 7 days of payment, we refund in full on request**, no reason needed.
