@@ -72,7 +72,6 @@ so itself. The course also embeds explainer videos from the publisher's YouTube 
 their scripts are written with AI help, the narration is Ritu, and the animation is
 programmatic. Every video is reviewed by the publisher before it is published.
 
-<<<<<<< HEAD
 ## The paid AI course
 
 Our paid course, **Master AI Automation in 4 hours** (sold on Udemy), is produced
@@ -82,7 +81,7 @@ Sarvam voice, and animated programmatically with Manim. Every chapter is reviewe
 and approved by the publisher before it ships, and the exercise sheets are written
 and edited by hand. The course policy page at [AI Course Policy](ai-course.html)
 carries the details.
-=======
+
 ## The ask assistant
 
 The public question-answering assistant at
@@ -97,7 +96,6 @@ link back to the source page; where a figure is not in the fetched data the assi
 says so rather than guessing. Company names link to StockAnalysis.com, and those links
 carry the referral code disclosed on the
 [Disclaimer](disclaimer.html) page.
->>>>>>> 6d83709 (AI policy: document the ask.themicrocapminute.in assistant and its data sources)
 
 ## Who is responsible
 
